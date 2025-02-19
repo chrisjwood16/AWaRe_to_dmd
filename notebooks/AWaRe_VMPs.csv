@@ -1,0 +1,784 @@
+,Antibiotic,Route,Combo,vtm_nm,vtm_id,vmp_nm,vmp_id,descr,England-adapted 2019 AWaRe category,UK-adapted 2024 AWaRe category
+465,Amikacin,,False,Amikacin,774534000,Amikacin 100mg/2ml solution for injection vials,35899811000001104,solutioninjection.intramuscular,Watch,Watch
+466,Amikacin,,False,Amikacin,774534000,Amikacin 100mg/2ml solution for injection vials,35899811000001104,solutioninjection.intravenous,Watch,Watch
+467,Amikacin,,False,Amikacin,774534000,Amikacin 100mg/2ml solution for injection vials,35899811000001104,solutioninfusion.intravenous,Watch,Watch
+87,Amikacin,,False,Amikacin,774534000,Amikacin 2.5% eye drops preservative free,33516711000001107,liquiddrops.ophthalmic,Watch,Watch
+37,Amikacin,,False,Amikacin,774534000,Amikacin 25mg/5ml solution for injection ampoules,44007311000001107,solutioninjection.intrathecal,Watch,Watch
+76,Amikacin,,False,Amikacin,774534000,Amikacin 25mg/5ml solution for injection pre-filled syringes,35104511000001105,solutioninjection.intrathecal,Watch,Watch
+75,Amikacin,,False,Amikacin,774534000,Amikacin 25mg/5ml solution for injection vials,35111911000001104,solutioninjection.intrathecal,Watch,Watch
+70,Amikacin,,False,Amikacin,774534000,Amikacin 400micrograms/0.1ml intravitreal injection kit,38244211000001108,solutioninjection.intravitreal,Watch,Watch
+43,Amikacin,,False,Amikacin,774534000,Amikacin 500mg/100ml infusion polyethylene bottles,41823511000001108,solutioninfusion.intravenous,Watch,Watch
+30,Amikacin,,False,Amikacin,774534000,Amikacin 500mg/2ml solution for injection ampoules,44422511000001103,solutioninjection.intramuscular,Watch,Watch
+31,Amikacin,,False,Amikacin,774534000,Amikacin 500mg/2ml solution for injection ampoules,44422511000001103,solutioninjection.intravenous,Watch,Watch
+32,Amikacin,,False,Amikacin,774534000,Amikacin 500mg/2ml solution for injection ampoules,44422511000001103,solutioninfusion.intravenous,Watch,Watch
+462,Amikacin,,False,Amikacin,774534000,Amikacin 500mg/2ml solution for injection vials,35899911000001109,solutioninjection.intramuscular,Watch,Watch
+463,Amikacin,,False,Amikacin,774534000,Amikacin 500mg/2ml solution for injection vials,35899911000001109,solutioninjection.intravenous,Watch,Watch
+464,Amikacin,,False,Amikacin,774534000,Amikacin 500mg/2ml solution for injection vials,35899911000001109,solutioninfusion.intravenous,Watch,Watch
+233,Amoxicillin,,False,Amoxicillin,774586009,Amoxicillin 125mg/1.25ml oral suspension paediatric,35368511000001109,suspension.oral,Access,Access
+196,Amoxicillin,,False,Amoxicillin,774586009,Amoxicillin 125mg/5ml oral suspension,41940811000001105,suspension.oral,Access,Access
+197,Amoxicillin,,False,Amoxicillin,774586009,Amoxicillin 125mg/5ml oral suspension sugar free,35901911000001104,suspension.oral,Access,Access
+768,Amoxicillin,,False,Amoxicillin,774586009,Amoxicillin 1g dispersible tablets sugar free,38726811000001109,tabletdispersible.oral,Access,Access
+307,Amoxicillin,,False,Amoxicillin,774586009,Amoxicillin 1g powder for solution for injection vials,41940911000001100,solutioninjection.intramuscular,Access,Access
+308,Amoxicillin,,False,Amoxicillin,774586009,Amoxicillin 1g powder for solution for injection vials,41940911000001100,solutioninjection.intravenous,Access,Access
+309,Amoxicillin,,False,Amoxicillin,774586009,Amoxicillin 1g powder for solution for injection vials,41940911000001100,solutioninfusion.intravenous,Access,Access
+184,Amoxicillin,,False,Amoxicillin,774586009,Amoxicillin 250mg capsules,39732311000001104,capsule.oral,Access,Access
+304,Amoxicillin,,False,Amoxicillin,774586009,Amoxicillin 250mg powder for solution for injection vials,41941011000001108,solutioninjection.intramuscular,Access,Access
+305,Amoxicillin,,False,Amoxicillin,774586009,Amoxicillin 250mg powder for solution for injection vials,41941011000001108,solutioninjection.intravenous,Access,Access
+306,Amoxicillin,,False,Amoxicillin,774586009,Amoxicillin 250mg powder for solution for injection vials,41941011000001108,solutioninfusion.intravenous,Access,Access
+194,Amoxicillin,,False,Amoxicillin,774586009,Amoxicillin 250mg/5ml oral suspension,41941111000001109,suspension.oral,Access,Access
+195,Amoxicillin,,False,Amoxicillin,774586009,Amoxicillin 250mg/5ml oral suspension sugar free,39021911000001105,suspension.oral,Access,Access
+322,Amoxicillin,,False,Amoxicillin,774586009,Amoxicillin 3g oral powder sachets sugar free,35902111000001107,suspension.oral,Access,Access
+185,Amoxicillin,,False,Amoxicillin,774586009,Amoxicillin 500mg capsules,39732411000001106,capsule.oral,Access,Access
+301,Amoxicillin,,False,Amoxicillin,774586009,Amoxicillin 500mg powder for solution for injection vials,41941211000001103,solutioninjection.intramuscular,Access,Access
+302,Amoxicillin,,False,Amoxicillin,774586009,Amoxicillin 500mg powder for solution for injection vials,41941211000001103,solutioninjection.intravenous,Access,Access
+303,Amoxicillin,,False,Amoxicillin,774586009,Amoxicillin 500mg powder for solution for injection vials,41941211000001103,solutioninfusion.intravenous,Access,Access
+29,Amoxicillin,,False,Amoxicillin,774586009,Amoxicillin 500mg tablets,44456411000001100,tablet.oral,Access,Access
+85,Amoxicillin,,False,Amoxicillin,774586009,Amoxicillin 500mg/50ml infusion bags,34226911000001109,solutioninfusion.intravenous,Access,Access
+770,Amoxicillin,,False,Amoxicillin,774586009,Amoxicillin 500mg/5ml oral suspension sugar free,41941311000001106,suspension.oral,Access,Access
+231,Ampicillin,,False,Ampicillin,774590006,Ampicillin 125mg/5ml oral suspension,41941411000001104,suspension.oral,Access,Access
+200,Ampicillin,,False,Ampicillin,774590006,Ampicillin 250mg capsules,41941511000001100,capsule.oral,Access,Access
+232,Ampicillin,,False,Ampicillin,774590006,Ampicillin 250mg/5ml oral suspension,41941611000001101,suspension.oral,Access,Access
+202,Ampicillin,,False,Ampicillin,774590006,Ampicillin 500mg capsules,41941711000001105,capsule.oral,Access,Access
+266,Ampicillin,,False,Ampicillin,774590006,Ampicillin 500mg powder for solution for injection vials,41941811000001102,solutioninjection.intramuscular,Access,Access
+267,Ampicillin,,False,Ampicillin,774590006,Ampicillin 500mg powder for solution for injection vials,41941811000001102,solutioninjection.intravenous,Access,Access
+268,Ampicillin,,False,Ampicillin,774590006,Ampicillin 500mg powder for solution for injection vials,41941811000001102,solutioninfusion.intravenous,Access,Access
+269,Ampicillin,,False,Ampicillin,774590006,Ampicillin 500mg powder for solution for injection vials,41941811000001102,solutioninjection.intraperitoneal,Access,Access
+270,Ampicillin,,False,Ampicillin,774590006,Ampicillin 500mg powder for solution for injection vials,41941811000001102,solutioninjection.intrapleural,Access,Access
+271,Ampicillin,,False,Ampicillin,774590006,Ampicillin 500mg powder for solution for injection vials,41941811000001102,solutioninjection.intraarticular,Access,Access
+709,Azithromycin,,False,Azithromycin,774722005,Azithromycin 15mg/g eye drops 0.25g unit dose preservative free,19373411000001100,solutiondrops.ophthalmic,Watch,Watch
+228,Azithromycin,,False,Azithromycin,774722005,Azithromycin 200mg/5ml oral suspension,41941911000001107,suspension.oral,Watch,Watch
+724,Azithromycin,,False,Azithromycin,774722005,Azithromycin 200mg/5ml oral suspension sugar free,29668711000001101,suspension.oral,Watch,Watch
+227,Azithromycin,,False,Azithromycin,774722005,Azithromycin 250mg capsules,41942011000001100,capsule.oral,Watch,Watch
+549,Azithromycin,,False,Azithromycin,774722005,Azithromycin 250mg tablets,11034311000001100,tablet.oral,Watch,Watch
+149,Azithromycin,,False,Azithromycin,774722005,Azithromycin 500mg powder for solution for infusion vials,41942111000001104,solutioninfusion.intravenous,Watch,Watch
+226,Azithromycin,,False,Azithromycin,774722005,Azithromycin 500mg tablets,39733511000001103,tablet.oral,Watch,Watch
+410,Aztreonam,,False,Aztreonam,774725007,Aztreonam 1g powder for solution for injection vials,41759411000001107,solutioninjection.intravenous,Reserve,Reserve
+411,Aztreonam,,False,Aztreonam,774725007,Aztreonam 1g powder for solution for injection vials,41759411000001107,solutioninfusion.intravenous,Reserve,Reserve
+412,Aztreonam,,False,Aztreonam,774725007,Aztreonam 1g powder for solution for injection vials,41759411000001107,solutioninjection.intramuscular-deep,Reserve,Reserve
+413,Aztreonam,,False,Aztreonam,774725007,Aztreonam 2g powder for solution for injection vials,41759511000001106,solutioninjection.intravenous,Reserve,Reserve
+414,Aztreonam,,False,Aztreonam,774725007,Aztreonam 2g powder for solution for injection vials,41759511000001106,solutioninfusion.intravenous,Reserve,Reserve
+415,Aztreonam,,False,Aztreonam,774725007,Aztreonam 2g powder for solution for injection vials,41759511000001106,solutioninjection.intramuscular-deep,Reserve,Reserve
+407,Aztreonam,,False,Aztreonam,774725007,Aztreonam 500mg powder for solution for injection vials,41759611000001105,solutioninjection.intravenous,Reserve,Reserve
+408,Aztreonam,,False,Aztreonam,774725007,Aztreonam 500mg powder for solution for injection vials,41759611000001105,solutioninfusion.intravenous,Reserve,Reserve
+409,Aztreonam,,False,Aztreonam,774725007,Aztreonam 500mg powder for solution for injection vials,41759611000001105,solutioninjection.intramuscular-deep,Reserve,Reserve
+143,Aztreonam,,False,Aztreonam,774725007,Aztreonam 75mg powder and solvent for nebuliser solution vials,17463011000001100,solutionnebuliser.inhalation,Reserve,Reserve
+702,Aztreonam,,False,Aztreonam,774725007,Aztreonam 75mg powder and solvent for nebuliser solution vials with device,17463411000001109,solutionnebuliser.inhalation,Reserve,Reserve
+158,Benzathine benzylpenicillin,,False,Benzathine benzylpenicillin,1234764000,Benzathine benzylpenicillin 1.2million unit powder and solvent for suspension for injection vials,10153111000001102,suspensioninjection.intramuscular-deep,Access,Access
+42,Benzathine benzylpenicillin,,False,Benzathine benzylpenicillin,1234764000,Benzathine benzylpenicillin 1.2million unit powder for suspension for injection vials,42683111000001104,suspensioninjection.intramuscular-deep,Access,Access
+159,Benzathine benzylpenicillin,,False,Benzathine benzylpenicillin,1234764000,Benzathine benzylpenicillin 2.4million unit powder and solvent for suspension for injection vials,10153211000001108,suspensioninjection.intramuscular-deep,Access,Access
+33,Benzathine benzylpenicillin,,False,Benzathine benzylpenicillin,1234764000,Benzathine benzylpenicillin 2.4million unit powder for suspension for injection vials,44168511000001109,suspensioninjection.intramuscular-deep,Access,Access
+160,Benzathine benzylpenicillin,,False,Benzathine benzylpenicillin,1234764000,"Benzathine benzylpenicillin 600,000unit powder and solvent for suspension for injection vials",10150911000001107,suspensioninjection.intramuscular-deep,Access,Access
+124,Benzylpenicillin,,False,Benzylpenicillin,774826003,Benzylpenicillin 0.15% eye drops,21657211000001109,solutiondrops.ophthalmic,Access,Access
+118,Benzylpenicillin,,False,Benzylpenicillin,774826003,Benzylpenicillin 0.3% eye drops,22085211000001101,solutiondrops.ophthalmic,Access,Access
+125,Benzylpenicillin,,False,Benzylpenicillin,774826003,Benzylpenicillin 0.3% eye drops preservative free,21658111000001102,solutiondrops.ophthalmic,Access,Access
+126,Benzylpenicillin,,False,Benzylpenicillin,774826003,Benzylpenicillin 0.6% eye drops,21658811000001109,solutiondrops.ophthalmic,Access,Access
+127,Benzylpenicillin,,False,Benzylpenicillin,774826003,Benzylpenicillin 6% eye drops,21659511000001100,solutiondrops.ophthalmic,Access,Access
+383,Benzylpenicillin,,False,Benzylpenicillin,774826003,Benzylpenicillin sodium 1.2g powder for solution for injection vials,41942211000001105,solutioninjection.intravenous,Access,Access
+384,Benzylpenicillin,,False,Benzylpenicillin,774826003,Benzylpenicillin sodium 1.2g powder for solution for injection vials,41942211000001105,solutioninfusion.intravenous,Access,Access
+115,Benzylpenicillin,,False,Benzylpenicillin,774826003,Benzylpenicillin sodium 1.2g/50ml infusion bags,22097311000001100,solutioninfusion.intravenous,Access,Access
+347,Benzylpenicillin,,False,Benzylpenicillin,774826003,Benzylpenicillin sodium 600mg powder for solution for injection vials,41942311000001102,solutioninjection.intramuscular,Access,Access
+348,Benzylpenicillin,,False,Benzylpenicillin,774826003,Benzylpenicillin sodium 600mg powder for solution for injection vials,41942311000001102,solutioninjection.intravenous,Access,Access
+349,Benzylpenicillin,,False,Benzylpenicillin,774826003,Benzylpenicillin sodium 600mg powder for solution for injection vials,41942311000001102,solutioninfusion.intravenous,Access,Access
+119,Benzylpenicillin,,False,Benzylpenicillin,774826003,Benzylpenicillin sodium 600mg/50ml infusion bags,22085911000001105,solutioninfusion.intravenous,Access,Access
+246,Cefaclor,,False,Cefaclor,775086009,Cefaclor 125mg/5ml oral suspension,41942511000001108,suspension.oral,Watch,Watch
+243,Cefaclor,,False,Cefaclor,775086009,Cefaclor 125mg/5ml oral suspension sugar free,36134011000001105,suspension.oral,Watch,Watch
+216,Cefaclor,,False,Cefaclor,775086009,Cefaclor 250mg capsules,39735011000001107,capsule.oral,Watch,Watch
+245,Cefaclor,,False,Cefaclor,775086009,Cefaclor 250mg/5ml oral suspension,41942611000001107,suspension.oral,Watch,Watch
+244,Cefaclor,,False,Cefaclor,775086009,Cefaclor 250mg/5ml oral suspension sugar free,36134111000001106,suspension.oral,Watch,Watch
+234,Cefaclor,,False,Cefaclor,775086009,Cefaclor 375mg modified-release tablets,36134211000001100,tabletmodified-release.oral,Watch,Watch
+223,Cefaclor,,False,Cefaclor,775086009,Cefaclor 500mg capsules,39735111000001108,capsule.oral,Watch,Watch
+237,Cefadroxil,,False,Cefadroxil,775087000,Cefadroxil 125mg/5ml oral suspension,41942711000001103,suspension.oral,Watch,Access
+238,Cefadroxil,,False,Cefadroxil,775087000,Cefadroxil 250mg/5ml oral suspension,41942811000001106,suspension.oral,Watch,Access
+236,Cefadroxil,,False,Cefadroxil,775087000,Cefadroxil 500mg capsules,39735211000001102,capsule.oral,Watch,Access
+239,Cefadroxil,,False,Cefadroxil,775087000,Cefadroxil 500mg/5ml oral suspension,41942911000001101,suspension.oral,Watch,Access
+211,Cefalexin,,False,Cefalexin,775088005,Cefalexin 125mg/5ml oral suspension,41943011000001109,suspension.oral,Watch,Access
+501,Cefalexin,,False,Cefalexin,775088005,Cefalexin 125mg/5ml oral suspension sugar free,4865011000001104,suspension.oral,Watch,Access
+205,Cefalexin,,False,Cefalexin,775088005,Cefalexin 250mg capsules,39735311000001105,capsule.oral,Watch,Access
+214,Cefalexin,,False,Cefalexin,775088005,Cefalexin 250mg tablets,39684111000001105,tablet.oral,Watch,Access
+203,Cefalexin,,False,Cefalexin,775088005,Cefalexin 250mg/5ml oral suspension,41943111000001105,suspension.oral,Watch,Access
+468,Cefalexin,,False,Cefalexin,775088005,Cefalexin 250mg/5ml oral suspension sugar free,4515811000001108,suspension.oral,Watch,Access
+213,Cefalexin,,False,Cefalexin,775088005,Cefalexin 500mg capsules,39694811000001102,capsule.oral,Watch,Access
+221,Cefalexin,,False,Cefalexin,775088005,Cefalexin 500mg tablets,39735911000001106,tablet.oral,Watch,Access
+321,Cefalexin,,False,Cefalexin,775088005,Cefalexin 500mg/5ml oral suspension,36134311000001108,suspension.oral,Watch,Access
+459,Cefamandole,,False,Cefamandole,775090006,Cefamandole 1g powder for solution for injection vials,4457111000001107,solutioninjection.intravenous,Watch,Watch
+460,Cefamandole,,False,Cefamandole,775090006,Cefamandole 1g powder for solution for injection vials,4457111000001107,solutioninfusion.intravenous,Watch,Watch
+461,Cefamandole,,False,Cefamandole,775090006,Cefamandole 1g powder for solution for injection vials,4457111000001107,solutioninjection.intramuscular-deep,Watch,Watch
+509,Cefazolin,,False,Cefazolin,775092003,Cefazolin 1g powder for solution for injection vials,41872611000001103,solutioninjection.intramuscular,Watch,Access
+510,Cefazolin,,False,Cefazolin,775092003,Cefazolin 1g powder for solution for injection vials,41872611000001103,solutioninjection.intravenous,Watch,Access
+511,Cefazolin,,False,Cefazolin,775092003,Cefazolin 1g powder for solution for injection vials,41872611000001103,solutioninfusion.intravenous,Watch,Access
+745,Cefazolin,,False,Cefazolin,775092003,Cefazolin 2g powder for solution for injection vials,33631211000001106,solutioninjection.intravenous,Watch,Access
+746,Cefazolin,,False,Cefazolin,775092003,Cefazolin 2g powder for solution for injection vials,33631211000001106,solutioninfusion.intravenous,Watch,Access
+516,Cefazolin,,False,Cefazolin,775092003,Cefazolin 500mg powder for solution for injection vials,41872711000001107,solutioninjection.intramuscular,Watch,Access
+517,Cefazolin,,False,Cefazolin,775092003,Cefazolin 500mg powder for solution for injection vials,41872711000001107,solutioninjection.intravenous,Watch,Access
+518,Cefazolin,,False,Cefazolin,775092003,Cefazolin 500mg powder for solution for injection vials,41872711000001107,solutioninfusion.intravenous,Watch,Access
+761,Cefepime,,False,Cefepime,775095001,Cefepime 1g powder for solution for injection vials,36458411000001105,solutioninjection.intramuscular,Watch,Watch
+762,Cefepime,,False,Cefepime,775095001,Cefepime 1g powder for solution for injection vials,36458411000001105,solutioninjection.intravenous,Watch,Watch
+763,Cefepime,,False,Cefepime,775095001,Cefepime 1g powder for solution for injection vials,36458411000001105,solutioninfusion.intravenous,Watch,Watch
+764,Cefepime,,False,Cefepime,775095001,Cefepime 2g powder for solution for injection vials,36458511000001109,solutioninjection.intramuscular,Watch,Watch
+765,Cefepime,,False,Cefepime,775095001,Cefepime 2g powder for solution for injection vials,36458511000001109,solutioninjection.intravenous,Watch,Watch
+766,Cefepime,,False,Cefepime,775095001,Cefepime 2g powder for solution for injection vials,36458511000001109,solutioninfusion.intravenous,Watch,Watch
+54,Cefiderocol,,False,Cefiderocol,830205006,Cefiderocol 1g powder for solution for infusion vials,39002611000001100,solutioninfusion.intravenous,Reserve,Reserve
+320,Cefixime,,False,Cefixime,775097009,Cefixime 100mg/5ml oral suspension,36134411000001101,suspension.oral,Watch,Watch
+217,Cefixime,,False,Cefixime,775097009,Cefixime 200mg tablets,41943211000001104,tablet.oral,Watch,Watch
+754,Cefixime,,False,Cefixime,775097009,Cefixime 400mg tablets,41943311000001107,tablet.oral,Watch,Watch
+359,Cefotaxime,,False,Cefotaxime,775103002,Cefotaxime 1g powder for solution for injection vials,41943411000001100,solutioninjection.intramuscular,Watch,Watch
+360,Cefotaxime,,False,Cefotaxime,775103002,Cefotaxime 1g powder for solution for injection vials,41943411000001100,solutioninjection.intravenous,Watch,Watch
+361,Cefotaxime,,False,Cefotaxime,775103002,Cefotaxime 1g powder for solution for injection vials,41943411000001100,solutioninfusion.intravenous,Watch,Watch
+38,Cefotaxime,,False,Cefotaxime,775103002,Cefotaxime 1g/50ml infusion bags,44009011000001100,solutioninfusion.intravenous,Watch,Watch
+484,Cefotaxime,,False,Cefotaxime,775103002,Cefotaxime 2g powder for solution for injection vials,4558311000001100,solutioninjection.intramuscular,Watch,Watch
+485,Cefotaxime,,False,Cefotaxime,775103002,Cefotaxime 2g powder for solution for injection vials,4558311000001100,solutioninjection.intravenous,Watch,Watch
+486,Cefotaxime,,False,Cefotaxime,775103002,Cefotaxime 2g powder for solution for injection vials,4558311000001100,solutioninfusion.intravenous,Watch,Watch
+39,Cefotaxime,,False,Cefotaxime,775103002,Cefotaxime 2g/100ml infusion bags,44007911000001108,solutioninfusion.intravenous,Watch,Watch
+481,Cefotaxime,,False,Cefotaxime,775103002,Cefotaxime 500mg powder for solution for injection vials,41943511000001101,solutioninjection.intramuscular,Watch,Watch
+482,Cefotaxime,,False,Cefotaxime,775103002,Cefotaxime 500mg powder for solution for injection vials,41943511000001101,solutioninjection.intravenous,Watch,Watch
+483,Cefotaxime,,False,Cefotaxime,775103002,Cefotaxime 500mg powder for solution for injection vials,41943511000001101,solutioninfusion.intravenous,Watch,Watch
+426,Cefoxitin,,False,Cefoxitin,775107001,Cefoxitin 1g powder for solution for injection vials,41943611000001102,solutioninjection.intravenous,Watch,Watch
+427,Cefoxitin,,False,Cefoxitin,775107001,Cefoxitin 1g powder for solution for injection vials,41943611000001102,solutioninfusion.intravenous,Watch,Watch
+428,Cefoxitin,,False,Cefoxitin,775107001,Cefoxitin 1g powder for solution for injection vials,41943611000001102,solutioninjection.intramuscular-deep,Watch,Watch
+432,Cefoxitin,,False,Cefoxitin,775107001,Cefoxitin 2g powder for solution for injection vials,41943711000001106,solutioninjection.intravenous,Watch,Watch
+433,Cefoxitin,,False,Cefoxitin,775107001,Cefoxitin 2g powder for solution for injection vials,41943711000001106,solutioninfusion.intravenous,Watch,Watch
+434,Cefoxitin,,False,Cefoxitin,775107001,Cefoxitin 2g powder for solution for injection vials,41943711000001106,solutioninjection.intramuscular-deep,Watch,Watch
+272,Cefradine,,False,Cefradine,775112000,Cefradine 1g powder for solution for injection vials,41944411000001102,solutioninjection.intramuscular,Watch,Access
+273,Cefradine,,False,Cefradine,775112000,Cefradine 1g powder for solution for injection vials,41944411000001102,solutioninjection.intravenous,Watch,Access
+274,Cefradine,,False,Cefradine,775112000,Cefradine 1g powder for solution for injection vials,41944411000001102,solutioninfusion.intravenous,Watch,Access
+222,Cefradine,,False,Cefradine,775112000,Cefradine 250mg capsules,41944511000001103,capsule.oral,Watch,Access
+326,Cefradine,,False,Cefradine,775112000,Cefradine 250mg/5ml oral solution,36134511000001102,solution.oral,Watch,Access
+224,Cefradine,,False,Cefradine,775112000,Cefradine 500mg capsules,41944611000001104,capsule.oral,Watch,Access
+275,Cefradine,,False,Cefradine,775112000,Cefradine 500mg powder for solution for injection vials,41944711000001108,solutioninjection.intramuscular,Watch,Access
+276,Cefradine,,False,Cefradine,775112000,Cefradine 500mg powder for solution for injection vials,41944711000001108,solutioninjection.intravenous,Watch,Access
+277,Cefradine,,False,Cefradine,775112000,Cefradine 500mg powder for solution for injection vials,41944711000001108,solutioninfusion.intravenous,Watch,Access
+129,Ceftaroline fosamil,,False,Ceftaroline fosamil,21387311000001104,Ceftaroline fosamil 600mg powder for solution for infusion vials,21386911000001101,solutioninfusion.intravenous,Reserve,Reserve
+353,Ceftazidime,,False,Ceftazidime,775115003,Ceftazidime 1g powder for solution for injection vials,41944811000001100,solutioninjection.intravenous,Watch,Watch
+354,Ceftazidime,,False,Ceftazidime,775115003,Ceftazidime 1g powder for solution for injection vials,41944811000001100,solutioninfusion.intravenous,Watch,Watch
+355,Ceftazidime,,False,Ceftazidime,775115003,Ceftazidime 1g powder for solution for injection vials,41944811000001100,solutioninjection.intramuscular-deep,Watch,Watch
+117,Ceftazidime,,False,Ceftazidime,775115003,Ceftazidime 1g/25ml solution for infusion pre-filled syringes,22098511000001105,solutioninfusion.intravenous,Watch,Watch
+116,Ceftazidime,,False,Ceftazidime,775115003,Ceftazidime 1g/50ml infusion bags,22097911000001104,solutioninfusion.intravenous,Watch,Watch
+109,Ceftazidime,,False,Ceftazidime,775115003,Ceftazidime 1g/50ml solution for infusion pre-filled injection devices,22455011000001109,solutioninfusion.intravenous,Watch,Watch
+418,Ceftazidime,,False,Ceftazidime,775115003,Ceftazidime 250mg powder for solution for injection vials,41944911000001105,solutioninjection.intravenous,Watch,Watch
+419,Ceftazidime,,False,Ceftazidime,775115003,Ceftazidime 250mg powder for solution for injection vials,41944911000001105,solutioninjection.intramuscular-deep,Watch,Watch
+170,Ceftazidime,,False,Ceftazidime,775115003,Ceftazidime 2g intravenous infusion vials,323856006,solutioninfusion.intravenous,Watch,Watch
+423,Ceftazidime,,False,Ceftazidime,775115003,Ceftazidime 2g powder for solution for injection vials,41945011000001105,solutioninjection.intravenous,Watch,Watch
+424,Ceftazidime,,False,Ceftazidime,775115003,Ceftazidime 2g powder for solution for injection vials,41945011000001105,solutioninfusion.intravenous,Watch,Watch
+425,Ceftazidime,,False,Ceftazidime,775115003,Ceftazidime 2g powder for solution for injection vials,41945011000001105,solutioninjection.intramuscular-deep,Watch,Watch
+48,Ceftazidime,,False,Ceftazidime,775115003,Ceftazidime 2mg/0.1ml solution for injection pre-filled syringes,40558111000001101,solutioninjection.intravitreal,Watch,Watch
+429,Ceftazidime,,False,Ceftazidime,775115003,Ceftazidime 3g powder for solution for injection vials,41945111000001106,solutioninjection.intravenous,Watch,Watch
+430,Ceftazidime,,False,Ceftazidime,775115003,Ceftazidime 3g powder for solution for injection vials,41945111000001106,solutioninfusion.intravenous,Watch,Watch
+431,Ceftazidime,,False,Ceftazidime,775115003,Ceftazidime 3g powder for solution for injection vials,41945111000001106,solutioninjection.intramuscular-deep,Watch,Watch
+139,Ceftazidime,,False,Ceftazidime,775115003,Ceftazidime 5% eye drops preservative free,21230911000001100,solution.ophthalmic,Watch,Watch
+420,Ceftazidime,,False,Ceftazidime,775115003,Ceftazidime 500mg powder for solution for injection vials,41945211000001100,solutioninjection.intravenous,Watch,Watch
+421,Ceftazidime,,False,Ceftazidime,775115003,Ceftazidime 500mg powder for solution for injection vials,41945211000001100,solutioninfusion.intravenous,Watch,Watch
+422,Ceftazidime,,False,Ceftazidime,775115003,Ceftazidime 500mg powder for solution for injection vials,41945211000001100,solutioninjection.intramuscular-deep,Watch,Watch
+86,Ceftazidime + Avibactam,,True,Ceftazidime + Avibactam,781300005,Ceftazidime 2g / Avibactam 500mg powder for solution for infusion vials,34179911000001103,solutioninfusion.intravenous,Reserve,Reserve
+89,Ceftobiprole,,False,Ceftobiprole,1287090001,Ceftobiprole 500mg powder for solution for infusion vials,31008911000001103,solutioninfusion.intravenous,Reserve,Reserve
+90,Ceftolozane + Tazobactam,,True,Ceftolozane + Tazobactam,775119009,Ceftolozane 1g / Tazobactam 500mg powder for solution for infusion vials,31007811000001109,solutioninfusion.intravenous,Reserve,Reserve
+364,Ceftriaxone,,False,Ceftriaxone,775120003,Ceftriaxone 1g powder for solution for injection vials,41945311000001108,solutioninjection.intravenous,Watch,Watch
+365,Ceftriaxone,,False,Ceftriaxone,775120003,Ceftriaxone 1g powder for solution for injection vials,41945311000001108,solutioninfusion.intravenous,Watch,Watch
+366,Ceftriaxone,,False,Ceftriaxone,775120003,Ceftriaxone 1g powder for solution for injection vials,41945311000001108,solutioninjection.intramuscular-deep,Watch,Watch
+113,Ceftriaxone,,False,Ceftriaxone,775120003,Ceftriaxone 1g/50ml infusion bags,22102411000001102,solutioninfusion.intravenous,Watch,Watch
+444,Ceftriaxone,,False,Ceftriaxone,775120003,Ceftriaxone 250mg powder for solution for injection vials,41945511000001102,solutioninjection.intravenous,Watch,Watch
+445,Ceftriaxone,,False,Ceftriaxone,775120003,Ceftriaxone 250mg powder for solution for injection vials,41945511000001102,solutioninfusion.intravenous,Watch,Watch
+446,Ceftriaxone,,False,Ceftriaxone,775120003,Ceftriaxone 250mg powder for solution for injection vials,41945511000001102,solutioninjection.intramuscular-deep,Watch,Watch
+101,Ceftriaxone,,False,Ceftriaxone,775120003,Ceftriaxone 2g powder for solution for infusion vials,23107411000001109,solutioninjection.intravenous,Watch,Watch
+102,Ceftriaxone,,False,Ceftriaxone,775120003,Ceftriaxone 2g powder for solution for infusion vials,23107411000001109,solutioninfusion.intravenous,Watch,Watch
+103,Ceftriaxone,,False,Ceftriaxone,775120003,Ceftriaxone 2g powder for solution for infusion vials,23107411000001109,solutioninjection.intramuscular-deep,Watch,Watch
+447,Ceftriaxone,,False,Ceftriaxone,775120003,Ceftriaxone 2g powder for solution for injection vials,41945611000001103,solutioninjection.intravenous,Watch,Watch
+448,Ceftriaxone,,False,Ceftriaxone,775120003,Ceftriaxone 2g powder for solution for injection vials,41945611000001103,solutioninfusion.intravenous,Watch,Watch
+449,Ceftriaxone,,False,Ceftriaxone,775120003,Ceftriaxone 2g powder for solution for injection vials,41945611000001103,solutioninjection.intramuscular-deep,Watch,Watch
+478,Cefuroxime,,False,Cefuroxime,775121004,Cefuroxime 1.5g powder for solution for injection vials,4557611000001106,solutioninjection.intravenous,Watch,Watch
+479,Cefuroxime,,False,Cefuroxime,775121004,Cefuroxime 1.5g powder for solution for injection vials,4557611000001106,suspensioninjection.intramuscular,Watch,Watch
+480,Cefuroxime,,False,Cefuroxime,775121004,Cefuroxime 1.5g powder for solution for injection vials,4557611000001106,solutioninfusion.intravenous,Watch,Watch
+98,Cefuroxime,,False,Cefuroxime,775121004,Cefuroxime 1.5g/100ml infusion bags,23683311000001109,solutioninfusion.intravenous,Watch,Watch
+96,Cefuroxime,,False,Cefuroxime,775121004,Cefuroxime 1.5g/50ml infusion bags,35893011000001107,solutioninfusion.intravenous,Watch,Watch
+323,Cefuroxime,,False,Cefuroxime,775121004,Cefuroxime 125mg granules for oral suspension sachets,41945711000001107,suspension.oral,Watch,Watch
+242,Cefuroxime,,False,Cefuroxime,775121004,Cefuroxime 125mg tablets,39684511000001101,tablet.oral,Watch,Watch
+240,Cefuroxime,,False,Cefuroxime,775121004,Cefuroxime 125mg/5ml oral suspension,41945811000001104,suspension.oral,Watch,Watch
+120,Cefuroxime,,False,Cefuroxime,775121004,Cefuroxime 1mg/0.1ml solution for injection pre-filled syringes,22041211000001105,solutioninjection.intracameral,Watch,Watch
+495,Cefuroxime,,False,Cefuroxime,775121004,Cefuroxime 250mg powder for solution for injection vials,41945911000001109,solutioninjection.intravenous,Watch,Watch
+496,Cefuroxime,,False,Cefuroxime,775121004,Cefuroxime 250mg powder for solution for injection vials,41945911000001109,suspensioninjection.intramuscular,Watch,Watch
+497,Cefuroxime,,False,Cefuroxime,775121004,Cefuroxime 250mg powder for solution for injection vials,41945911000001109,solutioninfusion.intravenous,Watch,Watch
+241,Cefuroxime,,False,Cefuroxime,775121004,Cefuroxime 250mg tablets,39694611000001101,tablet.oral,Watch,Watch
+114,Cefuroxime,,False,Cefuroxime,775121004,Cefuroxime 300micrograms/0.3ml solution for injection pre-filled syringes,22104011000001100,solutioninjection.intracameral,Watch,Watch
+91,Cefuroxime,,False,Cefuroxime,775121004,Cefuroxime 3mg/0.3ml solution for injection pre-filled syringes,30791311000001104,solutioninjection.intracameral,Watch,Watch
+695,Cefuroxime,,False,Cefuroxime,775121004,Cefuroxime 5% eye drops,15773911000001101,solutiondrops.ophthalmic,Watch,Watch
+694,Cefuroxime,,False,Cefuroxime,775121004,Cefuroxime 5% eye drops preservative free,36134611000001103,liquiddrops.ophthalmic,Watch,Watch
+121,Cefuroxime,,False,Cefuroxime,775121004,Cefuroxime 50mg powder for solution for injection vials,21797311000001102,solutioninjection.intracameral,Watch,Watch
+356,Cefuroxime,,False,Cefuroxime,775121004,Cefuroxime 750mg powder for solution for injection vials,36134711000001107,solutioninjection.intravenous,Watch,Watch
+357,Cefuroxime,,False,Cefuroxime,775121004,Cefuroxime 750mg powder for solution for injection vials,36134711000001107,suspensioninjection.intramuscular,Watch,Watch
+358,Cefuroxime,,False,Cefuroxime,775121004,Cefuroxime 750mg powder for solution for injection vials,36134711000001107,solutioninfusion.intravenous,Watch,Watch
+97,Cefuroxime,,False,Cefuroxime,775121004,Cefuroxime 750mg/50ml infusion bags,35893111000001108,solutioninfusion.intravenous,Watch,Watch
+173,Chloramphenicol,,False,Chloramphenicol,775160002,Chloramphenicol 0.5% eye drops,42186611000001102,solutiondrops.ophthalmic,Watch,Watch
+494,Chloramphenicol,,False,Chloramphenicol,775160002,Chloramphenicol 0.5% eye drops 0.5ml unit dose preservative free,4700911000001108,solutiondrops.ophthalmic,Watch,Watch
+733,Chloramphenicol,,False,Chloramphenicol,775160002,Chloramphenicol 0.5% eye drops preservative free,36135411000001100,solutiondrops.ophthalmic,Watch,Watch
+175,Chloramphenicol,,False,Chloramphenicol,775160002,Chloramphenicol 1% eye ointment,42186711000001106,ointment.ophthalmic,Watch,Watch
+402,Chloramphenicol,,False,Chloramphenicol,775160002,Chloramphenicol 10% ear drops,42186811000001103,solutiondrops.auricular,Watch,Watch
+439,Chloramphenicol,,False,Chloramphenicol,775160002,Chloramphenicol 1g powder for solution for injection vials,41946011000001101,solutioninjection.intramuscular,Watch,Watch
+440,Chloramphenicol,,False,Chloramphenicol,775160002,Chloramphenicol 1g powder for solution for injection vials,41946011000001101,solutioninjection.intravenous,Watch,Watch
+441,Chloramphenicol,,False,Chloramphenicol,775160002,Chloramphenicol 1g powder for solution for injection vials,41946011000001101,solutioninfusion.intravenous,Watch,Watch
+352,Chloramphenicol,,False,Chloramphenicol,775160002,Chloramphenicol 250mg capsules,41946111000001100,capsule.oral,Watch,Watch
+342,Chloramphenicol,,False,Chloramphenicol,775160002,Chloramphenicol 5% ear drops,42186911000001108,solutiondrops.auricular,Watch,Watch
+55,Cilastatin + Imipenem + Relebactam,,True,Cilastatin + Imipenem + Relebactam,789074009,Generic Recarbrio 500mg/500mg/250mg powder for solution for infusion vials,38840011000001101,solutioninfusion.intravenous,Reserve,Reserve
+705,Ciprofloxacin,,False,Ciprofloxacin,775261009,Ciprofloxacin 0.2% eye drops preservative free,18519011000001100,solutiondrops.ophthalmic,Watch,Watch
+710,Ciprofloxacin,,False,Ciprofloxacin,775261009,Ciprofloxacin 0.3% ear drops,19395211000001107,solutiondrops.auricular,Watch,Watch
+338,Ciprofloxacin,,False,Ciprofloxacin,775261009,Ciprofloxacin 0.3% eye drops,42187111000001108,solutiondrops.ophthalmic,Watch,Watch
+199,Ciprofloxacin,,False,Ciprofloxacin,775261009,Ciprofloxacin 100mg tablets,39686211000001109,tablet.oral,Watch,Watch
+265,Ciprofloxacin,,False,Ciprofloxacin,775261009,Ciprofloxacin 100mg/50ml solution for infusion bottles,36140911000001100,solutioninfusion.intravenous,Watch,Watch
+545,Ciprofloxacin,,False,Ciprofloxacin,775261009,Ciprofloxacin 100mg/50ml solution for infusion vials,10892711000001106,solutioninfusion.intravenous,Watch,Watch
+567,Ciprofloxacin,,False,Ciprofloxacin,775261009,Ciprofloxacin 100mg/5ml oral suspension,12019511000001104,suspension.oral,Watch,Watch
+568,Ciprofloxacin,,False,Ciprofloxacin,775261009,Ciprofloxacin 125mg/5ml oral suspension,12019611000001100,suspension.oral,Watch,Watch
+569,Ciprofloxacin,,False,Ciprofloxacin,775261009,Ciprofloxacin 150mg/5ml oral suspension,12019711000001109,suspension.oral,Watch,Watch
+570,Ciprofloxacin,,False,Ciprofloxacin,775261009,Ciprofloxacin 165mg/5ml oral suspension,12019811000001101,suspension.oral,Watch,Watch
+571,Ciprofloxacin,,False,Ciprofloxacin,775261009,Ciprofloxacin 170mg/5ml oral suspension,12019911000001106,suspension.oral,Watch,Watch
+572,Ciprofloxacin,,False,Ciprofloxacin,775261009,Ciprofloxacin 175mg/5ml oral suspension,12020011000001108,suspension.oral,Watch,Watch
+264,Ciprofloxacin,,False,Ciprofloxacin,775261009,Ciprofloxacin 200mg/100ml infusion bags,36141011000001108,solutioninjection.intravenous,Watch,Watch
+529,Ciprofloxacin,,False,Ciprofloxacin,775261009,Ciprofloxacin 200mg/100ml solution for infusion bottles,8967411000001108,solutioninfusion.intravenous,Watch,Watch
+546,Ciprofloxacin,,False,Ciprofloxacin,775261009,Ciprofloxacin 200mg/100ml solution for infusion vials,10892811000001103,solutioninfusion.intravenous,Watch,Watch
+573,Ciprofloxacin,,False,Ciprofloxacin,775261009,Ciprofloxacin 20mg/5ml oral suspension,12020111000001109,suspension.oral,Watch,Watch
+204,Ciprofloxacin,,False,Ciprofloxacin,775261009,Ciprofloxacin 250mg tablets,39687511000001109,tablet.oral,Watch,Watch
+327,Ciprofloxacin,,False,Ciprofloxacin,775261009,Ciprofloxacin 250mg/5ml oral suspension,41760211000001107,suspension.oral,Watch,Watch
+756,Ciprofloxacin,,False,Ciprofloxacin,775261009,Ciprofloxacin 2mg/ml ear drops 0.25ml unit dose preservative free,34941111000001103,solutiondrops.auricular,Watch,Watch
+574,Ciprofloxacin,,False,Ciprofloxacin,775261009,Ciprofloxacin 375mg/5ml oral suspension,12020211000001103,suspension.oral,Watch,Watch
+536,Ciprofloxacin,,False,Ciprofloxacin,775261009,Ciprofloxacin 3mg/g eye ointment,9552511000001108,ointment.ophthalmic,Watch,Watch
+263,Ciprofloxacin,,False,Ciprofloxacin,775261009,Ciprofloxacin 400mg/200ml infusion bags,36141511000001100,solutioninjection.intravenous,Watch,Watch
+530,Ciprofloxacin,,False,Ciprofloxacin,775261009,Ciprofloxacin 400mg/200ml solution for infusion bottles,8973011000001101,solutioninfusion.intravenous,Watch,Watch
+547,Ciprofloxacin,,False,Ciprofloxacin,775261009,Ciprofloxacin 400mg/200ml solution for infusion vials,10892911000001108,solutioninfusion.intravenous,Watch,Watch
+575,Ciprofloxacin,,False,Ciprofloxacin,775261009,Ciprofloxacin 40mg/5ml oral suspension,12020311000001106,suspension.oral,Watch,Watch
+561,Ciprofloxacin,,False,Ciprofloxacin,775261009,Ciprofloxacin 45mg/5ml oral suspension,12020411000001104,suspension.oral,Watch,Watch
+206,Ciprofloxacin,,False,Ciprofloxacin,775261009,Ciprofloxacin 500mg tablets,39687811000001107,tablet.oral,Watch,Watch
+562,Ciprofloxacin,,False,Ciprofloxacin,775261009,Ciprofloxacin 500mg/5ml oral suspension,12020511000001100,suspension.oral,Watch,Watch
+563,Ciprofloxacin,,False,Ciprofloxacin,775261009,Ciprofloxacin 50mg/5ml oral suspension,12020611000001101,suspension.oral,Watch,Watch
+564,Ciprofloxacin,,False,Ciprofloxacin,775261009,Ciprofloxacin 60mg/5ml oral suspension,12020711000001105,suspension.oral,Watch,Watch
+208,Ciprofloxacin,,False,Ciprofloxacin,775261009,Ciprofloxacin 750mg tablets,39687011000001101,tablet.oral,Watch,Watch
+565,Ciprofloxacin,,False,Ciprofloxacin,775261009,Ciprofloxacin 75mg/5ml oral suspension,12020811000001102,suspension.oral,Watch,Watch
+566,Ciprofloxacin,,False,Ciprofloxacin,775261009,Ciprofloxacin 80mg/5ml oral suspension,12020911000001107,suspension.oral,Watch,Watch
+508,Clarithromycin,,False,Clarithromycin,775277005,Clarithromycin 125mg granules for oral suspension sachets,4977911000001105,suspension.oral,Watch,Watch
+537,Clarithromycin,,False,Clarithromycin,775277005,Clarithromycin 125mg granules for oral suspension straws,9742311000001103,suspension.oral,Watch,Watch
+255,Clarithromycin,,False,Clarithromycin,775277005,Clarithromycin 125mg/5ml oral suspension,35368711000001104,suspension.oral,Watch,Watch
+538,Clarithromycin,,False,Clarithromycin,775277005,Clarithromycin 187.5mg granules for oral suspension straws,9742411000001105,suspension.oral,Watch,Watch
+111,Clarithromycin,,False,Clarithromycin,775277005,Clarithromycin 2% eye drops preservative free,22389711000001109,solutiondrops.ophthalmic,Watch,Watch
+324,Clarithromycin,,False,Clarithromycin,775277005,Clarithromycin 250mg granules for oral suspension sachets,41946211000001106,suspension.oral,Watch,Watch
+539,Clarithromycin,,False,Clarithromycin,775277005,Clarithromycin 250mg granules for oral suspension straws,9742511000001109,suspension.oral,Watch,Watch
+229,Clarithromycin,,False,Clarithromycin,775277005,Clarithromycin 250mg tablets,41946311000001103,tablet.oral,Watch,Watch
+256,Clarithromycin,,False,Clarithromycin,775277005,Clarithromycin 250mg/5ml oral suspension,37083211000001101,suspension.oral,Watch,Watch
+230,Clarithromycin,,False,Clarithromycin,775277005,Clarithromycin 500mg modified-release tablets,36142611000001107,tabletmodified-release.oral,Watch,Watch
+284,Clarithromycin,,False,Clarithromycin,775277005,Clarithromycin 500mg powder for solution for infusion vials,41946411000001105,solutioninfusion.intravenous,Watch,Watch
+225,Clarithromycin,,False,Clarithromycin,775277005,Clarithromycin 500mg tablets,41946511000001109,tablet.oral,Watch,Watch
+112,Clarithromycin,,False,Clarithromycin,775277005,Clarithromycin 500mg/250ml infusion bags,22390311000001100,solutioninfusion.intravenous,Watch,Watch
+258,Clindamycin,,False,Clindamycin,775288004,Clindamycin 1% alcoholic solution,36142711000001103,solution.cutaneous,Watch,Watch
+259,Clindamycin,,False,Clindamycin,775288004,Clindamycin 1% aqueous lotion,37083411000001102,emulsion.cutaneous,Watch,Watch
+343,Clindamycin,,False,Clindamycin,775288004,Clindamycin 1% gel,41738311000001105,gel.cutaneous,Watch,Watch
+760,Clindamycin,,False,Clindamycin,775288004,Clindamycin 100mg/5ml oral suspension,36458611000001108,suspension.oral,Watch,Watch
+556,Clindamycin,,False,Clindamycin,775288004,Clindamycin 120mg/5ml oral solution,12021311000001101,solution.oral,Watch,Watch
+332,Clindamycin,,False,Clindamycin,775288004,Clindamycin 150mg capsules,41946611000001108,capsule.oral,Watch,Watch
+557,Clindamycin,,False,Clindamycin,775288004,Clindamycin 150mg/5ml oral solution,12021411000001108,solution.oral,Watch,Watch
+748,Clindamycin,,False,Clindamycin,775288004,Clindamycin 150mg/5ml oral suspension,34376711000001103,suspension.oral,Watch,Watch
+257,Clindamycin,,False,Clindamycin,775288004,Clindamycin 2% vaginal cream,39700011000001105,cream.vaginal,Watch,Watch
+755,Clindamycin,,False,Clindamycin,775288004,Clindamycin 200mg/5ml oral suspension,34818411000001104,suspension.oral,Watch,Watch
+558,Clindamycin,,False,Clindamycin,775288004,Clindamycin 20mg/5ml oral solution,12021611000001106,solution.oral,Watch,Watch
+716,Clindamycin,,False,Clindamycin,775288004,Clindamycin 300mg capsules,21711211000001104,capsule.oral,Watch,Watch
+416,Clindamycin,,False,Clindamycin,775288004,Clindamycin 300mg/2ml solution for injection ampoules,36087211000001109,solutioninjection.intramuscular,Watch,Watch
+417,Clindamycin,,False,Clindamycin,775288004,Clindamycin 300mg/2ml solution for injection ampoules,36087211000001109,solutioninfusion.intravenous,Watch,Watch
+71,Clindamycin,,False,Clindamycin,775288004,Clindamycin 300mg/50ml infusion bags,38082611000001103,solutioninfusion.intravenous,Watch,Watch
+559,Clindamycin,,False,Clindamycin,775288004,Clindamycin 300mg/5ml oral solution,12021711000001102,solution.oral,Watch,Watch
+560,Clindamycin,,False,Clindamycin,775288004,Clindamycin 400mg/5ml oral solution,12021811000001105,solution.oral,Watch,Watch
+737,Clindamycin,,False,Clindamycin,775288004,Clindamycin 450mg/5ml oral solution,32748011000001108,solution.oral,Watch,Watch
+759,Clindamycin,,False,Clindamycin,775288004,Clindamycin 50mg/5ml oral suspension,36458711000001104,suspension.oral,Watch,Watch
+519,Clindamycin,,False,Clindamycin,775288004,Clindamycin 600mg/4ml solution for injection ampoules,36087311000001101,solutioninjection.intramuscular,Watch,Watch
+520,Clindamycin,,False,Clindamycin,775288004,Clindamycin 600mg/4ml solution for injection ampoules,36087311000001101,solutioninfusion.intravenous,Watch,Watch
+72,Clindamycin,,False,Clindamycin,775288004,Clindamycin 600mg/50ml infusion bags,38082711000001107,solutioninfusion.intravenous,Watch,Watch
+706,Clindamycin,,False,Clindamycin,775288004,Clindamycin 60mg/5ml oral solution,18519211000001105,solution.oral,Watch,Watch
+362,Clindamycin,,False,Clindamycin,775288004,Clindamycin 75mg capsules,41946711000001104,capsule.oral,Watch,Watch
+521,Clindamycin,,False,Clindamycin,775288004,Clindamycin 75mg/5ml oral solution,27864611000001100,solution.oral,Watch,Watch
+522,Clindamycin,,False,Clindamycin,775288004,Clindamycin 75mg/5ml oral suspension,8360611000001101,suspension.oral,Watch,Watch
+299,Co-amoxiclav,,True,Co-amoxiclav,774587000,Co-amoxiclav 1000mg/200mg powder for solution for injection vials,41947011000001103,solutioninjection.intravenous,Watch,Watch
+300,Co-amoxiclav,,True,Co-amoxiclav,774587000,Co-amoxiclav 1000mg/200mg powder for solution for injection vials,41947011000001103,solutioninfusion.intravenous,Watch,Watch
+99,Co-amoxiclav,,True,Co-amoxiclav,774587000,Co-amoxiclav 1000mg/200mg/100ml infusion bags,23673611000001106,solutioninfusion.intravenous,Watch,Watch
+106,Co-amoxiclav,,True,Co-amoxiclav,774587000,Co-amoxiclav 1000mg/200mg/50ml infusion bags,22515011000001106,solutioninfusion.intravenous,Watch,Watch
+514,Co-amoxiclav,,True,Co-amoxiclav,774587000,Co-amoxiclav 125mg/31mg/5ml oral suspension,7322211000001104,suspension.oral,Watch,Watch
+183,Co-amoxiclav,,True,Co-amoxiclav,774587000,Co-amoxiclav 125mg/31mg/5ml oral suspension sugar free,36565811000001104,suspension.oral,Watch,Watch
+44,Co-amoxiclav,,True,Co-amoxiclav,774587000,Co-amoxiclav 2000mg/200mg powder for solution for infusion vials,41109011000001101,solutioninfusion.intravenous,Watch,Watch
+180,Co-amoxiclav,,True,Co-amoxiclav,774587000,Co-amoxiclav 250mg/125mg dispersible tablets sugar free,39021311000001109,suspension.oral,Watch,Watch
+182,Co-amoxiclav,,True,Co-amoxiclav,774587000,Co-amoxiclav 250mg/125mg tablets,39732111000001101,tablet.oral,Watch,Watch
+515,Co-amoxiclav,,True,Co-amoxiclav,774587000,Co-amoxiclav 250mg/62mg/5ml oral suspension,7322311000001107,suspension.oral,Watch,Watch
+181,Co-amoxiclav,,True,Co-amoxiclav,774587000,Co-amoxiclav 250mg/62mg/5ml oral suspension sugar free,37083611000001104,suspension.oral,Watch,Watch
+752,Co-amoxiclav,,True,Co-amoxiclav,774587000,Co-amoxiclav 400mg/57mg/5ml oral suspension,43801211000001105,suspension.oral,Watch,Watch
+179,Co-amoxiclav,,True,Co-amoxiclav,774587000,Co-amoxiclav 400mg/57mg/5ml oral suspension sugar free,37083711000001108,suspension.oral,Watch,Watch
+297,Co-amoxiclav,,True,Co-amoxiclav,774587000,Co-amoxiclav 500mg/100mg powder for solution for injection vials,41947111000001102,solutioninjection.intravenous,Watch,Watch
+298,Co-amoxiclav,,True,Co-amoxiclav,774587000,Co-amoxiclav 500mg/100mg powder for solution for injection vials,41947111000001102,solutioninfusion.intravenous,Watch,Watch
+105,Co-amoxiclav,,True,Co-amoxiclav,774587000,Co-amoxiclav 500mg/100mg/50ml infusion bags,22514411000001103,solutioninfusion.intravenous,Watch,Watch
+187,Co-amoxiclav,,True,Co-amoxiclav,774587000,Co-amoxiclav 500mg/125mg tablets,39732211000001107,tablet.oral,Watch,Watch
+723,Co-amoxiclav,,True,Co-amoxiclav,774587000,Co-amoxiclav 875mg/125mg tablets,39732511000001105,tablet.oral,Watch,Watch
+0,Colistin,intravenous,False,Colistin,775373006,Colistimethate 1million unit powder for solution for injection vials,41760311000001104,solutioninjection.intravenous,Reserve,Reserve
+1,Colistin,intravenous,False,Colistin,775373006,Colistimethate 1million unit powder for solution for injection vials,41760311000001104,solutioninfusion.intravenous,Reserve,Reserve
+4,Colistin,intravenous,False,Colistin,775373006,Colistimethate 2million unit powder for solution for injection vials,4638311000001106,solutioninjection.intravenous,Reserve,Reserve
+5,Colistin,intravenous,False,Colistin,775373006,Colistimethate 2million unit powder for solution for injection vials,4638311000001106,solutioninfusion.intravenous,Reserve,Reserve
+2,Colistin,intravenous,False,Colistin,775373006,"Colistimethate 500,000unit powder for solution for injection vials",41760411000001104,solutioninjection.intravenous,Reserve,Reserve
+3,Colistin,intravenous,False,Colistin,775373006,"Colistimethate 500,000unit powder for solution for injection vials",41760411000001104,solutioninfusion.intravenous,Reserve,Reserve
+10,Colistin,oral,False,Colistin,775373006,Colistin 1.5million unit tablets,39707811000001104,tablet.oral,Reserve,Reserve
+9,Colistin,oral,False,Colistin,775373006,"Colistin 10,000,000units/5ml oral solution",24666511000001104,solution.oral,Reserve,Reserve
+7,Colistin,oral,False,Colistin,775373006,"Colistin 15,000,000units/5ml oral solution",30956811000001100,solution.oral,Reserve,Reserve
+12,Colistin,oral,False,Colistin,775373006,Colistin 19.5million unit powder vials,4615111000001106,solution.oral,Reserve,Reserve
+6,Colistin,oral,False,Colistin,775373006,"Colistin 2,500,000units/5ml oral solution",35030211000001104,solution.oral,Reserve,Reserve
+11,Colistin,oral,False,Colistin,775373006,"Colistin 250,000units/5ml oral solution",36091411000001104,solution.oral,Reserve,Reserve
+8,Colistin,oral,False,Colistin,775373006,"Colistin 5,000,000units/5ml oral solution",24665911000001104,solution.oral,Reserve,Reserve
+749,Dalbavancin,,False,Dalbavancin,775437000,Dalbavancin 500mg powder for solution for infusion vials,34377311000001104,solutioninfusion.intravenous,Reserve,Reserve
+540,Daptomycin,,False,Daptomycin,775451000,Daptomycin 350mg powder for solution for infusion vials,10140911000001105,solutioninfusion.intravenous,Reserve,Reserve
+548,Daptomycin,,False,Daptomycin,775451000,Daptomycin 500mg powder for solution for infusion vials,10961311000001108,solutioninfusion.intravenous,Reserve,Reserve
+56,Delafloxacin,,False,Delafloxacin,775469009,Delafloxacin 300mg powder for solution for infusion vials,38726911000001104,solutioninfusion.intravenous,Watch,Watch
+57,Delafloxacin,,False,Delafloxacin,775469009,Delafloxacin 450mg tablets,38727011000001100,tablet.oral,Watch,Watch
+340,Demeclocycline,,False,Demeclocycline,775476004,Demeclocycline 150mg capsules,41948011000001102,capsule.oral,Watch,Other
+722,Demeclocycline,,False,Demeclocycline,775476004,Demeclocycline 150mg tablets,41948111000001101,tablet.oral,Watch,Other
+551,Demeclocycline,,False,Demeclocycline,775476004,Demeclocycline 150mg/5ml oral solution,11713311000001109,solution.oral,Watch,Other
+550,Demeclocycline,,False,Demeclocycline,775476004,Demeclocycline 150mg/5ml oral suspension,11713411000001102,suspension.oral,Watch,Other
+740,Demeclocycline,,False,Demeclocycline,775476004,Demeclocycline 300mg capsules,32785511000001100,capsule.oral,Watch,Other
+553,Demeclocycline,,False,Demeclocycline,775476004,Demeclocycline 300mg/5ml oral solution,11713511000001103,solution.oral,Watch,Other
+552,Demeclocycline,,False,Demeclocycline,775476004,Demeclocycline 300mg/5ml oral suspension,11713611000001104,suspension.oral,Watch,Other
+555,Demeclocycline,,False,Demeclocycline,775476004,Demeclocycline 75mg/5ml oral solution,11713711000001108,solution.oral,Watch,Other
+554,Demeclocycline,,False,Demeclocycline,775476004,Demeclocycline 75mg/5ml oral suspension,11713811000001100,suspension.oral,Watch,Other
+689,Doripenem,,False,Doripenem,775689001,Doripenem 500mg powder for solution for infusion vials,41948211000001107,solutioninfusion.intravenous,Reserve,Reserve
+314,Doxycycline,,False,Doxycycline,775698003,Doxycycline 100mg capsules,41948311000001104,capsule.oral,Access,Access
+312,Doxycycline,,False,Doxycycline,775698003,Doxycycline 100mg dispersible tablets sugar free,39710311000001106,suspension.oral,Access,Access
+767,Doxycycline,,False,Doxycycline,775698003,Doxycycline 100mg tablets,41948411000001106,tablet.oral,Access,Access
+742,Doxycycline,,False,Doxycycline,775698003,Doxycycline 100mg/5ml oral suspension,32876211000001101,suspension.oral,Access,Access
+156,Doxycycline,,False,Doxycycline,775698003,Doxycycline 100mg/5ml solution for injection ampoules,10455111000001100,solutioninjection.intravenous,Access,Access
+157,Doxycycline,,False,Doxycycline,775698003,Doxycycline 100mg/5ml solution for injection ampoules,10455111000001100,solutioninfusion.intravenous,Access,Access
+172,Doxycycline,,False,Doxycycline,775698003,Doxycycline 20mg tablets,41948511000001105,tablet.oral,Access,Access
+93,Doxycycline,,False,Doxycycline,775698003,Doxycycline 36.4mg/260mg periodontal gel cartridge,28045911000001108,gel.oromucosal,Access,Access
+696,Doxycycline,,False,Doxycycline,775698003,Doxycycline 40mg modified-release capsules,36564611000001104,capsulemodified-release.oral,Access,Access
+313,Doxycycline,,False,Doxycycline,775698003,Doxycycline 50mg capsules,41948611000001109,capsule.oral,Access,Access
+523,Doxycycline,,False,Doxycycline,775698003,Doxycycline 50mg/5ml oral solution,8485211000001101,solution.oral,Access,Access
+524,Doxycycline,,False,Doxycycline,775698003,Doxycycline 50mg/5ml oral suspension,8485311000001109,suspension.oral,Access,Access
+46,Eravacycline,,False,Eravacycline,775807004,Eravacycline 100mg powder for solution for infusion vials,40686511000001105,solutioninfusion.intravenous,Reserve,Reserve
+498,Ertapenem,,False,Ertapenem,775820001,Ertapenem 1g powder for solution for infusion vials,4792411000001101,solutioninfusion.intravenous,Reserve,Reserve
+544,Erythromycin,,False,Erythromycin,775822009,Erythromycin 0.5% eye ointment,10636911000001105,ointment.ophthalmic,Watch,Watch
+334,Erythromycin,,False,Erythromycin,775822009,Erythromycin 2% gel,41739311000001104,gel.cutaneous,Watch,Watch
+262,Erythromycin,,False,Erythromycin,775822009,Erythromycin 2% solution,41739411000001106,solution.cutaneous,Watch,Watch
+193,Erythromycin,,False,Erythromycin,775822009,Erythromycin 250mg gastro-resistant capsules,36064711000001106,capsulegastro-resistant.oral,Watch,Watch
+192,Erythromycin,,False,Erythromycin,775822009,Erythromycin 250mg gastro-resistant tablets,41948811000001108,tabletgastro-resistant.oral,Watch,Watch
+333,Erythromycin,,False,Erythromycin,775822009,Erythromycin 4% gel,41739511000001105,gel.cutaneous,Watch,Watch
+713,Fidaxomicin,,False,Fidaxomicin,775961002,Fidaxomicin 200mg tablets,41949811000001101,tablet.oral,Watch,Watch
+771,Fidaxomicin,,False,Fidaxomicin,775961002,Fidaxomicin 40mg/ml oral suspension sugar free,40558211000001107,suspension.oral,Watch,Watch
+772,Fidaxomicin,,False,Fidaxomicin,775961002,Fidaxomicin 40mg/ml oral suspension sugar free,40558211000001107,suspension.gastroenteral,Watch,Watch
+189,Flucloxacillin,,False,Flucloxacillin,775979003,Flucloxacillin 125mg/5ml oral solution,41949911000001106,solution.oral,Access,Access
+699,Flucloxacillin,,False,Flucloxacillin,775979003,Flucloxacillin 125mg/5ml oral solution sugar free,16089611000001103,solution.oral,Access,Access
+190,Flucloxacillin,,False,Flucloxacillin,775979003,Flucloxacillin 125mg/5ml oral suspension,41950011000001102,suspension.oral,Access,Access
+278,Flucloxacillin,,False,Flucloxacillin,775979003,Flucloxacillin 1g powder for solution for injection vials,41950111000001101,solutioninjection.intramuscular,Access,Access
+279,Flucloxacillin,,False,Flucloxacillin,775979003,Flucloxacillin 1g powder for solution for injection vials,41950111000001101,solutioninjection.intravenous,Access,Access
+280,Flucloxacillin,,False,Flucloxacillin,775979003,Flucloxacillin 1g powder for solution for injection vials,41950111000001101,solutionnebuliser.inhalation,Access,Access
+281,Flucloxacillin,,False,Flucloxacillin,775979003,Flucloxacillin 1g powder for solution for injection vials,41950111000001101,solutioninfusion.intravenous,Access,Access
+282,Flucloxacillin,,False,Flucloxacillin,775979003,Flucloxacillin 1g powder for solution for injection vials,41950111000001101,solutioninjection.intrapleural,Access,Access
+283,Flucloxacillin,,False,Flucloxacillin,775979003,Flucloxacillin 1g powder for solution for injection vials,41950111000001101,solutioninjection.intraarticular,Access,Access
+107,Flucloxacillin,,False,Flucloxacillin,775979003,Flucloxacillin 1g/50ml infusion bags,22488711000001108,solutioninfusion.intravenous,Access,Access
+198,Flucloxacillin,,False,Flucloxacillin,775979003,Flucloxacillin 250mg capsules,39692111000001101,capsule.oral,Access,Access
+285,Flucloxacillin,,False,Flucloxacillin,775979003,Flucloxacillin 250mg powder for solution for injection vials,41950211000001107,solutioninjection.intramuscular,Access,Access
+286,Flucloxacillin,,False,Flucloxacillin,775979003,Flucloxacillin 250mg powder for solution for injection vials,41950211000001107,solutioninjection.intravenous,Access,Access
+287,Flucloxacillin,,False,Flucloxacillin,775979003,Flucloxacillin 250mg powder for solution for injection vials,41950211000001107,solutionnebuliser.inhalation,Access,Access
+288,Flucloxacillin,,False,Flucloxacillin,775979003,Flucloxacillin 250mg powder for solution for injection vials,41950211000001107,solutioninfusion.intravenous,Access,Access
+289,Flucloxacillin,,False,Flucloxacillin,775979003,Flucloxacillin 250mg powder for solution for injection vials,41950211000001107,solutioninjection.intrapleural,Access,Access
+290,Flucloxacillin,,False,Flucloxacillin,775979003,Flucloxacillin 250mg powder for solution for injection vials,41950211000001107,solutioninjection.intraarticular,Access,Access
+500,Flucloxacillin,,False,Flucloxacillin,775979003,Flucloxacillin 250mg/5ml oral solution,41950311000001104,solution.oral,Access,Access
+698,Flucloxacillin,,False,Flucloxacillin,775979003,Flucloxacillin 250mg/5ml oral solution sugar free,16089711000001107,solution.oral,Access,Access
+191,Flucloxacillin,,False,Flucloxacillin,775979003,Flucloxacillin 250mg/5ml oral suspension,41950411000001106,suspension.oral,Access,Access
+753,Flucloxacillin,,False,Flucloxacillin,775979003,Flucloxacillin 2g powder for solution for injection vials,34769611000001109,solutioninfusion.intravenous,Access,Access
+74,Flucloxacillin,,False,Flucloxacillin,775979003,Flucloxacillin 2g/100ml infusion bags,35166211000001101,solutioninfusion.intravenous,Access,Access
+207,Flucloxacillin,,False,Flucloxacillin,775979003,Flucloxacillin 500mg capsules,39692211000001107,capsule.oral,Access,Access
+291,Flucloxacillin,,False,Flucloxacillin,775979003,Flucloxacillin 500mg powder for solution for injection vials,41950511000001105,solutioninjection.intramuscular,Access,Access
+292,Flucloxacillin,,False,Flucloxacillin,775979003,Flucloxacillin 500mg powder for solution for injection vials,41950511000001105,solutioninjection.intravenous,Access,Access
+293,Flucloxacillin,,False,Flucloxacillin,775979003,Flucloxacillin 500mg powder for solution for injection vials,41950511000001105,solutionnebuliser.inhalation,Access,Access
+294,Flucloxacillin,,False,Flucloxacillin,775979003,Flucloxacillin 500mg powder for solution for injection vials,41950511000001105,solutioninfusion.intravenous,Access,Access
+295,Flucloxacillin,,False,Flucloxacillin,775979003,Flucloxacillin 500mg powder for solution for injection vials,41950511000001105,solutioninjection.intrapleural,Access,Access
+296,Flucloxacillin,,False,Flucloxacillin,775979003,Flucloxacillin 500mg powder for solution for injection vials,41950511000001105,solutioninjection.intraarticular,Access,Access
+108,Flucloxacillin,,False,Flucloxacillin,775979003,Flucloxacillin 500mg/50ml infusion bags,22489111000001100,solutioninfusion.intravenous,Access,Access
+104,Flucloxacillin,,False,Flucloxacillin,775979003,Flucloxacillin sodium 125mg/5ml oral suspension,22751511000001108,suspension.oral,Access,Access
+18,Fosfomycin,intravenous,False,Fosfomycin,776041001,Fosfomycin 1g powder and solvent for solution for infusion vials,22491111000001100,solutioninfusion.intravenous,Reserve,Reserve
+13,Fosfomycin,oral,False,Fosfomycin,776041001,Fosfomycin 250mg/5ml oral suspension,25194411000001108,suspension.oral,Access,Access
+17,Fosfomycin,intravenous,False,Fosfomycin,776041001,Fosfomycin 2g powder for solution for infusion vials,24997511000001104,solutioninfusion.intravenous,Reserve,Reserve
+14,Fosfomycin,oral,False,Fosfomycin,776041001,Fosfomycin 3g granules for oral solution sachets,18162111000001104,solution.oral,Access,Access
+19,Fosfomycin,intravenous,False,Fosfomycin,776041001,Fosfomycin 4g powder for solution for infusion vials,22491511000001108,solutioninfusion.intravenous,Reserve,Reserve
+15,Fosfomycin,oral,False,Fosfomycin,776041001,Fosfomycin 500mg capsules,21258811000001108,capsule.oral,Access,Access
+16,Fosfomycin,intravenous,False,Fosfomycin,776041001,Fosfomycin 5g powder for solution for infusion vials,36809911000001112,solutioninfusion.intravenous,Reserve,Reserve
+174,Fusidic acid,,False,Fusidic acid,776058006,Fusidic acid 1% modified-release eye drops,39020911000001103,solutiondropsmodified-release.ophthalmic,Access,Watch
+210,Fusidic acid,,False,Fusidic acid,776058006,Fusidic acid 2% cream,41898711000001103,cream.cutaneous,Access,Watch
+254,Fusidic acid,,False,Fusidic acid,776058006,Fusidic acid 2% gel,41740011000001109,gel.cutaneous,Access,Watch
+367,Fusidic acid,,False,Fusidic acid,776058006,Fusidic acid 250mg/5ml oral suspension,41950611000001109,suspension.oral,Access,Watch
+703,Gentamicin,,False,Gentamicin,776094005,Gentamicin 0.1% cream,18496211000001105,,Access,Access
+318,Gentamicin,,False,Gentamicin,776094005,Gentamicin 0.3% ear/eye drops,42190211000001102,solutiondrops.ophthalmic,Access,Access
+319,Gentamicin,,False,Gentamicin,776094005,Gentamicin 0.3% ear/eye drops,42190211000001102,solutiondrops.auricular,Access,Access
+363,Gentamicin,,False,Gentamicin,776094005,Gentamicin 0.3% eye drops 0.5ml unit dose preservative free,36062811000001109,solutiondrops.ophthalmic,Access,Access
+148,Gentamicin,,False,Gentamicin,776094005,Gentamicin 0.3% eye ointment,11378211000001104,ointment.ophthalmic,Access,Access
+686,Gentamicin,,False,Gentamicin,776094005,Gentamicin 1.5% eye drops,42190311000001105,liquiddrops.ophthalmic,Access,Access
+697,Gentamicin,,False,Gentamicin,776094005,Gentamicin 1.5% eye drops preservative free,36062911000001104,liquiddrops.ophthalmic,Access,Access
+700,Gentamicin,,False,Gentamicin,776094005,Gentamicin 1.9% eye drops preservative free,16174211000001104,liquiddrops.ophthalmic,Access,Access
+58,Gentamicin,,False,Gentamicin,776094005,Gentamicin 160mg/100ml infusion bags,38521211000001101,solutioninfusion.intravenous,Access,Access
+728,Gentamicin,,False,Gentamicin,776094005,Gentamicin 20mg/2ml solution for injection ampoules,29903511000001102,solutioninjection.intravenous,Access,Access
+729,Gentamicin,,False,Gentamicin,776094005,Gentamicin 20mg/2ml solution for injection ampoules,29903511000001102,solutioninfusion.intravenous,Access,Access
+368,Gentamicin,,False,Gentamicin,776094005,Gentamicin 20mg/2ml solution for injection vials,36063011000001107,solutioninjection.intramuscular,Access,Access
+369,Gentamicin,,False,Gentamicin,776094005,Gentamicin 20mg/2ml solution for injection vials,36063011000001107,solutioninjection.intravenous,Access,Access
+370,Gentamicin,,False,Gentamicin,776094005,Gentamicin 20mg/2ml solution for injection vials,36063011000001107,solutioninfusion.intravenous,Access,Access
+162,Gentamicin,,False,Gentamicin,776094005,Gentamicin 225mg implant,8750011000001100,implant.intralesional,Access,Access
+166,Gentamicin,,False,Gentamicin,776094005,Gentamicin 240mg/100ml infusion bags,7652011000001101,solutioninfusion.intravenous,Access,Access
+59,Gentamicin,,False,Gentamicin,776094005,Gentamicin 240mg/106ml infusion bags,38521311000001109,solutioninfusion.intravenous,Access,Access
+36,Gentamicin,,False,Gentamicin,776094005,Gentamicin 240mg/6ml solution for injection pre-filled syringes,44028111000001104,solutioninjection.intravenous,Access,Access
+731,Gentamicin,,False,Gentamicin,776094005,Gentamicin 240mg/80ml infusion bags,29951111000001100,solutioninfusion.intravenous,Access,Access
+51,Gentamicin,,False,Gentamicin,776094005,Gentamicin 240mg/80ml infusion polyethylene bottles,39405311000001105,solutioninfusion.intravenous,Access,Access
+163,Gentamicin,,False,Gentamicin,776094005,Gentamicin 28mg implant,8751411000001100,implant.intralesional,Access,Access
+60,Gentamicin,,False,Gentamicin,776094005,Gentamicin 300mg/107.5ml infusion bags,38521411000001102,solutioninfusion.intravenous,Access,Access
+721,Gentamicin,,False,Gentamicin,776094005,Gentamicin 30mg/5ml oral suspension,27800411000001108,suspension.oral,Access,Access
+727,Gentamicin,,False,Gentamicin,776094005,Gentamicin 35mg/5ml oral suspension,29827911000001102,suspension.oral,Access,Access
+167,Gentamicin,,False,Gentamicin,776094005,Gentamicin 360mg/100ml infusion bags,7652511000001109,solutioninfusion.intravenous,Access,Access
+61,Gentamicin,,False,Gentamicin,776094005,Gentamicin 360mg/109ml infusion bags,38521511000001103,solutioninfusion.intravenous,Access,Access
+732,Gentamicin,,False,Gentamicin,776094005,Gentamicin 360mg/120ml infusion bags,29951211000001106,solutioninfusion.intravenous,Access,Access
+52,Gentamicin,,False,Gentamicin,776094005,Gentamicin 360mg/120ml infusion polyethylene bottles,39405411000001103,solutioninfusion.intravenous,Access,Access
+374,Gentamicin,,False,Gentamicin,776094005,Gentamicin 40mg/1ml solution for injection ampoules,36050911000001105,solutioninjection.intramuscular,Access,Access
+375,Gentamicin,,False,Gentamicin,776094005,Gentamicin 40mg/1ml solution for injection ampoules,36050911000001105,solutioninjection.intravenous,Access,Access
+376,Gentamicin,,False,Gentamicin,776094005,Gentamicin 40mg/1ml solution for injection ampoules,36050911000001105,solutioninfusion.intravenous,Access,Access
+62,Gentamicin,,False,Gentamicin,776094005,Gentamicin 440mg/111ml infusion bags,38521611000001104,solutioninfusion.intravenous,Access,Access
+738,Gentamicin,,False,Gentamicin,776094005,Gentamicin 45mg/5ml oral solution,32749211000001108,solution.oral,Access,Access
+525,Gentamicin,,False,Gentamicin,776094005,Gentamicin 50mg/5ml oral solution,8523611000001103,solution.oral,Access,Access
+490,Gentamicin,,False,Gentamicin,776094005,Gentamicin 5mg/1ml solution for injection ampoules,4615711000001107,solutioninjection.intrathecal,Access,Access
+491,Gentamicin,,False,Gentamicin,776094005,Gentamicin 5mg/1ml solution for injection ampoules,4615711000001107,solutioninjection.intracerebroventricular,Access,Access
+576,Gentamicin,,False,Gentamicin,776094005,Gentamicin 62.5mg/5ml oral solution,12089911000001108,solution.oral,Access,Access
+161,Gentamicin,,False,Gentamicin,776094005,Gentamicin 75mg implant,8748511000001108,implant.intralesional,Access,Access
+577,Gentamicin,,False,Gentamicin,776094005,Gentamicin 75mg/5ml oral solution,12090011000001100,solution.oral,Access,Access
+344,Gentamicin,,False,Gentamicin,776094005,Gentamicin 80mg/2ml solution for injection ampoules,36051011000001102,solutioninjection.intramuscular,Access,Access
+345,Gentamicin,,False,Gentamicin,776094005,Gentamicin 80mg/2ml solution for injection ampoules,36051011000001102,solutioninjection.intravenous,Access,Access
+346,Gentamicin,,False,Gentamicin,776094005,Gentamicin 80mg/2ml solution for injection ampoules,36051011000001102,solutioninfusion.intravenous,Access,Access
+371,Gentamicin,,False,Gentamicin,776094005,Gentamicin 80mg/2ml solution for injection vials,36051111000001101,solutioninjection.intramuscular,Access,Access
+372,Gentamicin,,False,Gentamicin,776094005,Gentamicin 80mg/2ml solution for injection vials,36051111000001101,solutioninjection.intravenous,Access,Access
+373,Gentamicin,,False,Gentamicin,776094005,Gentamicin 80mg/2ml solution for injection vials,36051111000001101,solutioninfusion.intravenous,Access,Access
+165,Gentamicin,,False,Gentamicin,776094005,Gentamicin 80mg/50ml infusion bags,7651311000001107,solutioninfusion.intravenous,Access,Access
+730,Gentamicin,,False,Gentamicin,776094005,Gentamicin 80mg/80ml infusion bags,29951311000001103,solutioninfusion.intravenous,Access,Access
+53,Gentamicin,,False,Gentamicin,776094005,Gentamicin 80mg/80ml infusion polyethylene bottles,39405511000001104,solutioninfusion.intravenous,Access,Access
+442,Imipenem + Cilastatin,,True,Imipenem + Cilastatin,775245007,Imipenem 500mg / Cilastatin 500mg powder for solution for infusion vials,4396211000001103,solutioninfusion.intravenous,Reserve,Reserve
+443,Imipenem + Cilastatin,,True,Imipenem + Cilastatin,775245007,Imipenem 500mg / Cilastatin 500mg powder for suspension for injection vials,41950811000001108,suspensioninjection.intramuscular-deep,Reserve,Reserve
+734,Levofloxacin,,False,Levofloxacin,776517005,Levofloxacin 100mg/ml nebuliser liquid ampoules,32522511000001104,solutionnebuliser.inhalation,Watch,Watch
+40,Levofloxacin,,False,Levofloxacin,776517005,Levofloxacin 125mg/5ml oral solution,43186411000001109,solution.oral,Watch,Watch
+316,Levofloxacin,,False,Levofloxacin,776517005,Levofloxacin 250mg tablets,39697411000001109,tablet.oral,Watch,Watch
+317,Levofloxacin,,False,Levofloxacin,776517005,Levofloxacin 500mg tablets,41951211000001101,tablet.oral,Watch,Watch
+711,Levofloxacin,,False,Levofloxacin,776517005,Levofloxacin 500mg/100ml infusion bags,19448711000001105,solutioninfusion.intravenous,Watch,Watch
+719,Levofloxacin,,False,Levofloxacin,776517005,Levofloxacin 500mg/100ml solution for infusion bottles,23108311000001101,solutioninfusion.intravenous,Watch,Watch
+489,Levofloxacin,,False,Levofloxacin,776517005,Levofloxacin 500mg/100ml solution for infusion vials,36038911000001106,solutioninfusion.intravenous,Watch,Watch
+41,Levofloxacin,,False,Levofloxacin,776517005,Levofloxacin 50mg/5ml oral suspension,43186511000001108,suspension.oral,Watch,Watch
+541,Levofloxacin,,False,Levofloxacin,776517005,Levofloxacin 5mg/ml eye drops,10228011000001109,solutiondrops.ophthalmic,Watch,Watch
+744,Levofloxacin,,False,Levofloxacin,776517005,Levofloxacin 5mg/ml eye drops 0.3ml unit dose preservative free,33550711000001102,solutiondrops.ophthalmic,Watch,Watch
+687,Levofloxacin,,False,Levofloxacin,776517005,Levofloxacin 5mg/ml eye drops 0.5ml unit dose preservative free,14253011000001103,solutiondrops.ophthalmic,Watch,Watch
+769,Levofloxacin,,False,Levofloxacin,776517005,Levofloxacin 5mg/ml eye drops preservative free,39097511000001103,solutiondrops.ophthalmic,Watch,Watch
+505,Linezolid,,False,Linezolid,776544000,Linezolid 100mg/5ml oral suspension,39718111000001106,suspension.oral,Reserve,Reserve
+458,Linezolid,,False,Linezolid,776544000,Linezolid 600mg tablets,41951311000001109,tablet.oral,Reserve,Reserve
+499,Linezolid,,False,Linezolid,776544000,Linezolid 600mg/300ml infusion bags,36040111000001105,solutioninfusion.intravenous,Reserve,Reserve
+758,Linezolid,,False,Linezolid,776544000,Linezolid 600mg/300ml solution for infusion bottles,36441911000001108,solutioninfusion.intravenous,Reserve,Reserve
+235,Lymecycline,,False,Lymecycline,776593005,Lymecycline 408mg capsules,41951411000001102,capsule.oral,Watch,Watch
+435,Meropenem,,False,Meropenem,776694006,Meropenem 1g powder for solution for injection vials,41951511000001103,solutioninjection.intravenous,Reserve,Reserve
+436,Meropenem,,False,Meropenem,776694006,Meropenem 1g powder for solution for injection vials,41951511000001103,solutioninfusion.intravenous,Reserve,Reserve
+782,Meropenem,,False,Meropenem,776694006,Meropenem 2g powder for solution for injection vials,42337111000001109,solutioninjection.intravenous,Reserve,Reserve
+783,Meropenem,,False,Meropenem,776694006,Meropenem 2g powder for solution for injection vials,42337111000001109,solutioninfusion.intravenous,Reserve,Reserve
+437,Meropenem,,False,Meropenem,776694006,Meropenem 500mg powder for solution for injection vials,41951611000001104,solutioninjection.intravenous,Reserve,Reserve
+438,Meropenem,,False,Meropenem,776694006,Meropenem 500mg powder for solution for injection vials,41951611000001104,solutioninfusion.intravenous,Reserve,Reserve
+73,Meropenem + Vaborbactam,,True,Meropenem + Vaborbactam,776695007,Meropenem 1g / Vaborbactam 1g powder for solution for infusion vials,37914011000001102,solutioninfusion.intravenous,Reserve,Reserve
+339,Methenamine,,False,Methenamine,776725009,Methenamine hippurate 1g tablets,41951711000001108,tablet.oral,Other,Other
+311,Metronidazole,,False,Metronidazole,776774005,Metronidazole 0.75% cream,41902911000001105,cream.cutaneous,Access,Access
+315,Metronidazole,,False,Metronidazole,776774005,Metronidazole 0.75% gel,41742611000001101,gel.cutaneous,Access,Access
+708,Metronidazole,,False,Metronidazole,776774005,Metronidazole 0.75% vaginal gel,41742711000001105,gel.vaginal,Access,Access
+310,Metronidazole,,False,Metronidazole,776774005,Metronidazole 0.8% gel,41742811000001102,gel.cutaneous,Access,Access
+707,Metronidazole,,False,Metronidazole,776774005,Metronidazole 0.85% gel,18684411000001104,gel.cutaneous,Access,Access
+487,Metronidazole,,False,Metronidazole,776774005,Metronidazole 1% cream,41903011000001102,cream.cutaneous,Access,Access
+747,Metronidazole,,False,Metronidazole,776774005,Metronidazole 10% ointment,34378211000001106,,Access,Access
+506,Metronidazole,,False,Metronidazole,776774005,Metronidazole 100mg/20ml solution for infusion ampoules,34194011000001108,solutioninfusion.intravenous,Access,Access
+666,Metronidazole,,False,Metronidazole,776774005,Metronidazole 100mg/5ml oral solution,13007811000001103,solution.oral,Access,Access
+665,Metronidazole,,False,Metronidazole,776774005,Metronidazole 100mg/5ml oral suspension,13007911000001108,suspension.oral,Access,Access
+350,Metronidazole,,False,Metronidazole,776774005,Metronidazole 1g suppositories,41951811000001100,suppository.rectal,Access,Access
+526,Metronidazole,,False,Metronidazole,776774005,Metronidazole 2% cream,8797011000001108,cream.cutaneous,Access,Access
+750,Metronidazole,,False,Metronidazole,776774005,Metronidazole 200mg suppositories,34607211000001108,suppository.rectal,Access,Access
+209,Metronidazole,,False,Metronidazole,776774005,Metronidazole 200mg tablets,41951911000001105,tablet.oral,Access,Access
+667,Metronidazole,,False,Metronidazole,776774005,Metronidazole 200mg/5ml oral solution,13008011000001105,solution.oral,Access,Access
+252,Metronidazole,,False,Metronidazole,776774005,Metronidazole 200mg/5ml oral suspension,41952011000001103,suspension.oral,Access,Access
+507,Metronidazole,,False,Metronidazole,776774005,Metronidazole 25% oromucosal gel sugar free,41742911000001107,gel.gingival,Access,Access
+212,Metronidazole,,False,Metronidazole,776774005,Metronidazole 400mg tablets,41952111000001102,tablet.oral,Access,Access
+351,Metronidazole,,False,Metronidazole,776774005,Metronidazole 500mg suppositories,41952211000001108,suppository.rectal,Access,Access
+218,Metronidazole,,False,Metronidazole,776774005,Metronidazole 500mg tablets,41952311000001100,tablet.oral,Access,Access
+329,Metronidazole,,False,Metronidazole,776774005,Metronidazole 500mg/100ml infusion 100ml bags,36035611000001106,solutioninjection.intravenous,Access,Access
+330,Metronidazole,,False,Metronidazole,776774005,Metronidazole 500mg/100ml infusion 100ml bags,36035611000001106,solutioninfusion.intravenous,Access,Access
+751,Metronidazole,,False,Metronidazole,776774005,Metronidazole 500mg/100ml solution for infusion bottles,34617211000001105,solutioninfusion.intravenous,Access,Access
+736,Metronidazole,,False,Metronidazole,776774005,Metronidazole 500mg/5ml oral suspension,32655011000001106,suspension.oral,Access,Access
+669,Metronidazole,,False,Metronidazole,776774005,Metronidazole 50mg/5ml oral solution,13008111000001106,solution.oral,Access,Access
+668,Metronidazole,,False,Metronidazole,776774005,Metronidazole 50mg/5ml oral suspension,13008211000001100,suspension.oral,Access,Access
+24,Minocycline,oral,False,Minocycline,776800005,Minocycline 100mg capsules,39700811000001104,capsule.oral,Watch,Watch
+22,Minocycline,oral,False,Minocycline,776800005,Minocycline 100mg modified-release capsules,36565111000001104,capsulemodified-release.oral,Watch,Watch
+20,Minocycline,oral,False,Minocycline,776800005,Minocycline 100mg tablets,39700911000001112,tablet.oral,Watch,Watch
+23,Minocycline,oral,False,Minocycline,776800005,Minocycline 50mg capsules,39700611000001104,capsule.oral,Watch,Watch
+21,Minocycline,oral,False,Minocycline,776800005,Minocycline 50mg tablets,39700711000001104,tablet.oral,Watch,Watch
+26,Minocycline,oral,False,Minocycline,776800005,Minocycline 50mg/5ml oral solution,13010711000001108,solution.oral,Watch,Watch
+25,Minocycline,oral,False,Minocycline,776800005,Minocycline 50mg/5ml oral suspension,13010811000001100,suspension.oral,Watch,Watch
+100,Moxifloxacin,,False,Moxifloxacin,776831003,Moxifloxacin 0.3mg/0.3ml solution for injection pre-filled syringes,23349111000001109,solutioninjection.intracameral,Watch,Watch
+704,Moxifloxacin,,False,Moxifloxacin,776831003,Moxifloxacin 0.5% eye drops,18482711000001103,solutiondrops.ophthalmic,Watch,Watch
+88,Moxifloxacin,,False,Moxifloxacin,776831003,Moxifloxacin 0.5mg/0.5ml solution for injection pre-filled syringes,33158911000001106,solutioninjection.intracameral,Watch,Watch
+171,Moxifloxacin,,False,Moxifloxacin,776831003,Moxifloxacin 400mg tablets,41952411000001107,tablet.oral,Watch,Watch
+543,Moxifloxacin,,False,Moxifloxacin,776831003,Moxifloxacin 400mg/250ml infusion bags,36028511000001101,solutioninfusion.intravenous,Watch,Watch
+701,Moxifloxacin,,False,Moxifloxacin,776831003,Moxifloxacin 400mg/250ml solution for infusion bottles,16756911000001108,solutioninfusion.intravenous,Watch,Watch
+757,Moxifloxacin,,False,Moxifloxacin,776831003,Moxifloxacin 400mg/5ml oral solution,36003311000001109,solution.oral,Watch,Watch
+380,Nalidixic Acid,,False,Nalidixic acid,776859002,Nalidixic acid 300mg/5ml oral suspension,41952511000001106,suspension.oral,Other,Other
+379,Nalidixic Acid,,False,Nalidixic acid,776859002,Nalidixic acid 300mg/5ml oral suspension sugar free,36028911000001108,suspension.oral,Other,Other
+336,Nalidixic Acid,,False,Nalidixic acid,776859002,Nalidixic acid 500mg tablets,41956711000001102,tablet.oral,Other,Other
+512,Neomycin,,False,Neomycin,776885003,Neomycin 0.5% cream,14614911000001109,cream.cutaneous,Watch,Watch
+378,Neomycin,,False,Neomycin,776885003,Neomycin 0.5% eye drops,42193211000001107,solutiondrops.ophthalmic,Watch,Watch
+381,Neomycin,,False,Neomycin,776885003,Neomycin 0.5% eye drops 0.5ml unit dose preservative free,36030611000001103,solutiondrops.ophthalmic,Watch,Watch
+382,Neomycin,,False,Neomycin,776885003,Neomycin 0.5% eye ointment,42193311000001104,ointment.ophthalmic,Watch,Watch
+578,Neomycin,,False,Neomycin,776885003,Neomycin 100mg/5ml oral solution,12301911000001109,solution.oral,Watch,Watch
+28,Neomycin,,False,Neomycin,776885003,Neomycin 125mg/5ml oral solution,41952611000001105,solution.oral,Watch,Watch
+377,Neomycin,,False,Neomycin,776885003,Neomycin 500mg tablets,41952711000001101,tablet.oral,Watch,Watch
+579,Neomycin,,False,Neomycin,776885003,Neomycin 500mg/5ml oral solution,12302011000001102,solution.oral,Watch,Watch
+248,Nitrofurantoin,,False,Nitrofurantoin,776927008,Nitrofurantoin 100mg capsules,41952811000001109,capsule.oral,Access,Access
+251,Nitrofurantoin,,False,Nitrofurantoin,776927008,Nitrofurantoin 100mg modified-release capsules,39108511000001108,capsulemodified-release.oral,Access,Access
+250,Nitrofurantoin,,False,Nitrofurantoin,776927008,Nitrofurantoin 100mg tablets,41952911000001104,tablet.oral,Access,Access
+581,Nitrofurantoin,,False,Nitrofurantoin,776927008,Nitrofurantoin 100mg/5ml oral solution,12862811000001106,solution.oral,Access,Access
+580,Nitrofurantoin,,False,Nitrofurantoin,776927008,Nitrofurantoin 100mg/5ml oral suspension,12862911000001101,suspension.oral,Access,Access
+583,Nitrofurantoin,,False,Nitrofurantoin,776927008,Nitrofurantoin 10mg/5ml oral solution,12863011000001109,solution.oral,Access,Access
+582,Nitrofurantoin,,False,Nitrofurantoin,776927008,Nitrofurantoin 10mg/5ml oral suspension,12863111000001105,suspension.oral,Access,Access
+585,Nitrofurantoin,,False,Nitrofurantoin,776927008,Nitrofurantoin 11mg/5ml oral solution,12863211000001104,solution.oral,Access,Access
+584,Nitrofurantoin,,False,Nitrofurantoin,776927008,Nitrofurantoin 11mg/5ml oral suspension,12863311000001107,suspension.oral,Access,Access
+587,Nitrofurantoin,,False,Nitrofurantoin,776927008,Nitrofurantoin 12.5mg/5ml oral solution,12863411000001100,solution.oral,Access,Access
+586,Nitrofurantoin,,False,Nitrofurantoin,776927008,Nitrofurantoin 12.5mg/5ml oral suspension,12863511000001101,suspension.oral,Access,Access
+589,Nitrofurantoin,,False,Nitrofurantoin,776927008,Nitrofurantoin 125mg/5ml oral solution,12863611000001102,solution.oral,Access,Access
+588,Nitrofurantoin,,False,Nitrofurantoin,776927008,Nitrofurantoin 125mg/5ml oral suspension,12863711000001106,suspension.oral,Access,Access
+591,Nitrofurantoin,,False,Nitrofurantoin,776927008,Nitrofurantoin 12mg/5ml oral solution,12863811000001103,solution.oral,Access,Access
+590,Nitrofurantoin,,False,Nitrofurantoin,776927008,Nitrofurantoin 12mg/5ml oral suspension,12863911000001108,suspension.oral,Access,Access
+593,Nitrofurantoin,,False,Nitrofurantoin,776927008,Nitrofurantoin 13.5mg/5ml oral solution,12864011000001106,solution.oral,Access,Access
+592,Nitrofurantoin,,False,Nitrofurantoin,776927008,Nitrofurantoin 13.5mg/5ml oral suspension,12864111000001107,suspension.oral,Access,Access
+595,Nitrofurantoin,,False,Nitrofurantoin,776927008,Nitrofurantoin 13mg/5ml oral solution,12864211000001101,solution.oral,Access,Access
+594,Nitrofurantoin,,False,Nitrofurantoin,776927008,Nitrofurantoin 13mg/5ml oral suspension,12864311000001109,suspension.oral,Access,Access
+597,Nitrofurantoin,,False,Nitrofurantoin,776927008,Nitrofurantoin 14mg/5ml oral solution,12864411000001102,solution.oral,Access,Access
+596,Nitrofurantoin,,False,Nitrofurantoin,776927008,Nitrofurantoin 14mg/5ml oral suspension,12864511000001103,suspension.oral,Access,Access
+599,Nitrofurantoin,,False,Nitrofurantoin,776927008,Nitrofurantoin 15mg/5ml oral solution,12864611000001104,solution.oral,Access,Access
+598,Nitrofurantoin,,False,Nitrofurantoin,776927008,Nitrofurantoin 15mg/5ml oral suspension,12864711000001108,suspension.oral,Access,Access
+601,Nitrofurantoin,,False,Nitrofurantoin,776927008,Nitrofurantoin 16mg/5ml oral solution,12864811000001100,solution.oral,Access,Access
+600,Nitrofurantoin,,False,Nitrofurantoin,776927008,Nitrofurantoin 16mg/5ml oral suspension,12864911000001105,suspension.oral,Access,Access
+603,Nitrofurantoin,,False,Nitrofurantoin,776927008,Nitrofurantoin 17.5mg/5ml oral solution,12893811000001100,solution.oral,Access,Access
+602,Nitrofurantoin,,False,Nitrofurantoin,776927008,Nitrofurantoin 17.5mg/5ml oral suspension,12894011000001108,suspension.oral,Access,Access
+605,Nitrofurantoin,,False,Nitrofurantoin,776927008,Nitrofurantoin 17mg/5ml oral solution,12894111000001109,solution.oral,Access,Access
+604,Nitrofurantoin,,False,Nitrofurantoin,776927008,Nitrofurantoin 17mg/5ml oral suspension,12894211000001103,suspension.oral,Access,Access
+607,Nitrofurantoin,,False,Nitrofurantoin,776927008,Nitrofurantoin 18.75mg/5ml oral solution,12894311000001106,solution.oral,Access,Access
+606,Nitrofurantoin,,False,Nitrofurantoin,776927008,Nitrofurantoin 18.75mg/5ml oral suspension,12894511000001100,suspension.oral,Access,Access
+609,Nitrofurantoin,,False,Nitrofurantoin,776927008,Nitrofurantoin 18mg/5ml oral solution,12894611000001101,solution.oral,Access,Access
+608,Nitrofurantoin,,False,Nitrofurantoin,776927008,Nitrofurantoin 18mg/5ml oral suspension,12894711000001105,suspension.oral,Access,Access
+612,Nitrofurantoin,,False,Nitrofurantoin,776927008,Nitrofurantoin 1mg/5ml oral solution,12895111000001108,solution.oral,Access,Access
+610,Nitrofurantoin,,False,Nitrofurantoin,776927008,Nitrofurantoin 1mg/5ml oral suspension,12894811000001102,suspension.oral,Access,Access
+616,Nitrofurantoin,,False,Nitrofurantoin,776927008,Nitrofurantoin 2.5mg/5ml oral solution,12904811000001105,solution.oral,Access,Access
+613,Nitrofurantoin,,False,Nitrofurantoin,776927008,Nitrofurantoin 2.5mg/5ml oral suspension,12904111000001103,suspension.oral,Access,Access
+619,Nitrofurantoin,,False,Nitrofurantoin,776927008,Nitrofurantoin 20mg/5ml oral solution,12904211000001109,solution.oral,Access,Access
+618,Nitrofurantoin,,False,Nitrofurantoin,776927008,Nitrofurantoin 20mg/5ml oral suspension,12904311000001101,suspension.oral,Access,Access
+621,Nitrofurantoin,,False,Nitrofurantoin,776927008,Nitrofurantoin 22mg/5ml oral solution,12904411000001108,solution.oral,Access,Access
+620,Nitrofurantoin,,False,Nitrofurantoin,776927008,Nitrofurantoin 22mg/5ml oral suspension,12904511000001107,suspension.oral,Access,Access
+623,Nitrofurantoin,,False,Nitrofurantoin,776927008,Nitrofurantoin 24mg/5ml oral solution,12904611000001106,solution.oral,Access,Access
+622,Nitrofurantoin,,False,Nitrofurantoin,776927008,Nitrofurantoin 24mg/5ml oral suspension,12904711000001102,suspension.oral,Access,Access
+625,Nitrofurantoin,,False,Nitrofurantoin,776927008,Nitrofurantoin 25mg/5ml oral solution,12904911000001100,solution.oral,Access,Access
+624,Nitrofurantoin,,False,Nitrofurantoin,776927008,Nitrofurantoin 25mg/5ml oral suspension,41953011000001107,suspension.oral,Access,Access
+328,Nitrofurantoin,,False,Nitrofurantoin,776927008,Nitrofurantoin 25mg/5ml oral suspension sugar free,36565611000001103,suspension.oral,Access,Access
+627,Nitrofurantoin,,False,Nitrofurantoin,776927008,Nitrofurantoin 2mg/5ml oral solution,12905011000001100,solution.oral,Access,Access
+626,Nitrofurantoin,,False,Nitrofurantoin,776927008,Nitrofurantoin 2mg/5ml oral suspension,12905111000001104,suspension.oral,Access,Access
+629,Nitrofurantoin,,False,Nitrofurantoin,776927008,Nitrofurantoin 30mg/5ml oral solution,12933911000001106,solution.oral,Access,Access
+628,Nitrofurantoin,,False,Nitrofurantoin,776927008,Nitrofurantoin 30mg/5ml oral suspension,12934011000001109,suspension.oral,Access,Access
+631,Nitrofurantoin,,False,Nitrofurantoin,776927008,Nitrofurantoin 32.5mg/5ml oral solution,12934111000001105,solution.oral,Access,Access
+630,Nitrofurantoin,,False,Nitrofurantoin,776927008,Nitrofurantoin 32.5mg/5ml oral suspension,12934211000001104,suspension.oral,Access,Access
+633,Nitrofurantoin,,False,Nitrofurantoin,776927008,Nitrofurantoin 35mg/5ml oral solution,12934311000001107,solution.oral,Access,Access
+632,Nitrofurantoin,,False,Nitrofurantoin,776927008,Nitrofurantoin 35mg/5ml oral suspension,12934411000001100,suspension.oral,Access,Access
+635,Nitrofurantoin,,False,Nitrofurantoin,776927008,Nitrofurantoin 40mg/5ml oral solution,12934511000001101,solution.oral,Access,Access
+634,Nitrofurantoin,,False,Nitrofurantoin,776927008,Nitrofurantoin 40mg/5ml oral suspension,12934611000001102,suspension.oral,Access,Access
+637,Nitrofurantoin,,False,Nitrofurantoin,776927008,Nitrofurantoin 45mg/5ml oral solution,12934711000001106,solution.oral,Access,Access
+636,Nitrofurantoin,,False,Nitrofurantoin,776927008,Nitrofurantoin 45mg/5ml oral suspension,12934811000001103,suspension.oral,Access,Access
+639,Nitrofurantoin,,False,Nitrofurantoin,776927008,Nitrofurantoin 4mg/5ml oral solution,12934911000001108,solution.oral,Access,Access
+638,Nitrofurantoin,,False,Nitrofurantoin,776927008,Nitrofurantoin 4mg/5ml oral suspension,12935011000001108,suspension.oral,Access,Access
+641,Nitrofurantoin,,False,Nitrofurantoin,776927008,Nitrofurantoin 5.5mg/5ml oral solution,12935111000001109,solution.oral,Access,Access
+640,Nitrofurantoin,,False,Nitrofurantoin,776927008,Nitrofurantoin 5.5mg/5ml oral suspension,12935211000001103,suspension.oral,Access,Access
+247,Nitrofurantoin,,False,Nitrofurantoin,776927008,Nitrofurantoin 50mg capsules,41953111000001108,capsule.oral,Access,Access
+249,Nitrofurantoin,,False,Nitrofurantoin,776927008,Nitrofurantoin 50mg tablets,41953211000001102,tablet.oral,Access,Access
+643,Nitrofurantoin,,False,Nitrofurantoin,776927008,Nitrofurantoin 50mg/5ml oral solution,12935311000001106,solution.oral,Access,Access
+642,Nitrofurantoin,,False,Nitrofurantoin,776927008,Nitrofurantoin 50mg/5ml oral suspension,12935411000001104,suspension.oral,Access,Access
+781,Nitrofurantoin,,False,Nitrofurantoin,776927008,Nitrofurantoin 50mg/5ml oral suspension sugar free,41978311000001100,suspension.oral,Access,Access
+645,Nitrofurantoin,,False,Nitrofurantoin,776927008,Nitrofurantoin 5mg/5ml oral solution,12935511000001100,solution.oral,Access,Access
+644,Nitrofurantoin,,False,Nitrofurantoin,776927008,Nitrofurantoin 5mg/5ml oral suspension,12935611000001101,suspension.oral,Access,Access
+647,Nitrofurantoin,,False,Nitrofurantoin,776927008,Nitrofurantoin 6.5mg/5ml oral solution,12935711000001105,solution.oral,Access,Access
+646,Nitrofurantoin,,False,Nitrofurantoin,776927008,Nitrofurantoin 6.5mg/5ml oral suspension,12935811000001102,suspension.oral,Access,Access
+649,Nitrofurantoin,,False,Nitrofurantoin,776927008,Nitrofurantoin 6mg/5ml oral solution,12935911000001107,solution.oral,Access,Access
+648,Nitrofurantoin,,False,Nitrofurantoin,776927008,Nitrofurantoin 6mg/5ml oral suspension,12936011000001104,suspension.oral,Access,Access
+651,Nitrofurantoin,,False,Nitrofurantoin,776927008,Nitrofurantoin 7.5mg/5ml oral solution,12936111000001103,solution.oral,Access,Access
+650,Nitrofurantoin,,False,Nitrofurantoin,776927008,Nitrofurantoin 7.5mg/5ml oral suspension,12936211000001109,suspension.oral,Access,Access
+653,Nitrofurantoin,,False,Nitrofurantoin,776927008,Nitrofurantoin 7.8mg/5ml oral solution,12936311000001101,solution.oral,Access,Access
+652,Nitrofurantoin,,False,Nitrofurantoin,776927008,Nitrofurantoin 7.8mg/5ml oral suspension,12936411000001108,suspension.oral,Access,Access
+655,Nitrofurantoin,,False,Nitrofurantoin,776927008,Nitrofurantoin 75mg/5ml oral solution,12936511000001107,solution.oral,Access,Access
+654,Nitrofurantoin,,False,Nitrofurantoin,776927008,Nitrofurantoin 75mg/5ml oral suspension,12936611000001106,suspension.oral,Access,Access
+657,Nitrofurantoin,,False,Nitrofurantoin,776927008,Nitrofurantoin 7mg/5ml oral solution,12936711000001102,solution.oral,Access,Access
+656,Nitrofurantoin,,False,Nitrofurantoin,776927008,Nitrofurantoin 7mg/5ml oral suspension,12936811000001105,suspension.oral,Access,Access
+659,Nitrofurantoin,,False,Nitrofurantoin,776927008,Nitrofurantoin 8mg/5ml oral solution,12936911000001100,solution.oral,Access,Access
+658,Nitrofurantoin,,False,Nitrofurantoin,776927008,Nitrofurantoin 8mg/5ml oral suspension,12937011000001101,suspension.oral,Access,Access
+661,Nitrofurantoin,,False,Nitrofurantoin,776927008,Nitrofurantoin 9.5mg/5ml oral solution,12937111000001100,solution.oral,Access,Access
+660,Nitrofurantoin,,False,Nitrofurantoin,776927008,Nitrofurantoin 9.5mg/5ml oral suspension,12937211000001106,suspension.oral,Access,Access
+663,Nitrofurantoin,,False,Nitrofurantoin,776927008,Nitrofurantoin 9mg/5ml oral solution,12937311000001103,solution.oral,Access,Access
+662,Nitrofurantoin,,False,Nitrofurantoin,776927008,Nitrofurantoin 9mg/5ml oral suspension,12937411000001105,suspension.oral,Access,Access
+220,Norfloxacin,,False,Norfloxacin,776943001,Norfloxacin 400mg tablets,41953311000001105,tablet.oral,Watch,Watch
+741,Ofloxacin,,False,Ofloxacin,776973005,Ofloxacin 0.3% ear drops,32878711000001107,solutiondrops.auricular,Watch,Watch
+335,Ofloxacin,,False,Ofloxacin,776973005,Ofloxacin 0.3% eye drops,42193411000001106,solutiondrops.ophthalmic,Watch,Watch
+164,Ofloxacin,,False,Ofloxacin,776973005,Ofloxacin 100mg/50ml solution for infusion bottles,35897411000001105,solutioninfusion.intravenous,Watch,Watch
+614,Ofloxacin,,False,Ofloxacin,776973005,Ofloxacin 100mg/5ml oral solution,12905211000001105,solution.oral,Watch,Watch
+611,Ofloxacin,,False,Ofloxacin,776973005,Ofloxacin 100mg/5ml oral suspension,12895811000001101,suspension.oral,Watch,Watch
+215,Ofloxacin,,False,Ofloxacin,776973005,Ofloxacin 200mg tablets,41953411000001103,tablet.oral,Watch,Watch
+451,Ofloxacin,,False,Ofloxacin,776973005,Ofloxacin 200mg/100ml solution for infusion bottles,38752711000001101,solutioninfusion.intravenous,Watch,Watch
+617,Ofloxacin,,False,Ofloxacin,776973005,Ofloxacin 250mg/5ml oral solution,12905311000001102,solution.oral,Watch,Watch
+615,Ofloxacin,,False,Ofloxacin,776973005,Ofloxacin 250mg/5ml oral suspension,12905411000001109,suspension.oral,Watch,Watch
+219,Ofloxacin,,False,Ofloxacin,776973005,Ofloxacin 400mg tablets,41953511000001104,tablet.oral,Watch,Watch
+150,Ofloxacin,,False,Ofloxacin,776973005,Ofloxacin 400mg/200ml solution for injection bottles,11136811000001106,solutioninfusion.intravenous,Watch,Watch
+47,Oritavancin,,False,Oritavancin,777001001,Oritavancin 400mg powder for solution for infusion vials,40651511000001105,solutioninfusion.intravenous,Reserve,Reserve
+670,Oxytetracycline,,False,Oxytetracycline,777035003,Oxytetracycline 100mg/5ml oral suspension,13003711000001101,suspension.oral,Watch,Watch
+671,Oxytetracycline,,False,Oxytetracycline,777035003,Oxytetracycline 125mg/5ml oral suspension,13003811000001109,suspension.oral,Watch,Watch
+325,Oxytetracycline,,False,Oxytetracycline,777035003,Oxytetracycline 250mg tablets,41953611000001100,tablet.oral,Watch,Watch
+672,Oxytetracycline,,False,Oxytetracycline,777035003,Oxytetracycline 250mg/5ml oral suspension,13003911000001104,suspension.oral,Watch,Watch
+673,Oxytetracycline,,False,Oxytetracycline,777035003,Oxytetracycline 500mg/5ml oral suspension,13004011000001101,suspension.oral,Watch,Watch
+718,Phenoxymethylpenicillin,,False,Phenoxymethylpenicillin,777175009,Phenoxymethylpenicillin 0.3% eye drops,22214211000001105,liquiddrops.ophthalmic,Access,Access
+188,Phenoxymethylpenicillin,,False,Phenoxymethylpenicillin,777175009,Phenoxymethylpenicillin 125mg/5ml oral solution,41953711000001109,solution.oral,Access,Access
+531,Phenoxymethylpenicillin,,False,Phenoxymethylpenicillin,777175009,Phenoxymethylpenicillin 125mg/5ml oral solution sugar free,9215111000001107,solution.oral,Access,Access
+178,Phenoxymethylpenicillin,,False,Phenoxymethylpenicillin,777175009,Phenoxymethylpenicillin 250mg tablets,41953811000001101,tablet.oral,Access,Access
+186,Phenoxymethylpenicillin,,False,Phenoxymethylpenicillin,777175009,Phenoxymethylpenicillin 250mg/5ml oral solution,41953911000001106,solution.oral,Access,Access
+532,Phenoxymethylpenicillin,,False,Phenoxymethylpenicillin,777175009,Phenoxymethylpenicillin 250mg/5ml oral solution sugar free,9215211000001101,solution.oral,Access,Access
+34,Phenoxymethylpenicillin,,False,Phenoxymethylpenicillin,777175009,Phenoxymethylpenicillin 500mg tablets,44122111000001108,tablet.oral,Access,Access
+456,Piperacillin + Tazobactam,,True,Piperacillin + Tazobactam,777212006,Piperacillin 2g / Tazobactam 250mg powder for solution for infusion vials,41954011000001109,solutioninfusion.intravenous,Watch,Watch
+128,Piperacillin + Tazobactam,,True,Piperacillin + Tazobactam,777212006,Piperacillin 2g/50ml / Tazobactam 250mg/50ml infusion bags,21511011000001108,solutioninfusion.intravenous,Watch,Watch
+63,Piperacillin + Tazobactam,,True,Piperacillin + Tazobactam,777212006,Piperacillin 3g / Tazobactam 375mg powder for solution for infusion vials,38422511000001100,solutioninfusion.intravenous,Watch,Watch
+492,Piperacillin + Tazobactam,,True,Piperacillin + Tazobactam,777212006,Piperacillin 4g / Tazobactam 500mg powder and solvent for solution for injection vials,4651611000001105,solutioninjection.intravenous,Watch,Watch
+493,Piperacillin + Tazobactam,,True,Piperacillin + Tazobactam,777212006,Piperacillin 4g / Tazobactam 500mg powder and solvent for solution for injection vials,4651611000001105,solutioninfusion.intravenous,Watch,Watch
+457,Piperacillin + Tazobactam,,True,Piperacillin + Tazobactam,777212006,Piperacillin 4g / Tazobactam 500mg powder for solution for infusion vials,41954111000001105,solutioninfusion.intravenous,Watch,Watch
+337,Pivmecillinam,,False,Pivmecillinam,777227006,Pivmecillinam 200mg tablets,39702711000001106,tablet.oral,Access,Access
+739,Pivmecillinam,,False,Pivmecillinam,777227006,Pivmecillinam 200mg/5ml oral suspension,32750311000001106,suspension.oral,Access,Access
+152,Procaine benzylpenicillin,,False,Procaine benzylpenicillin,1234762001,Procaine benzylpenicillin 1.2million unit powder and solvent for suspension for injection vials,10575011000001106,suspensioninjection.intramuscular,Access,Access
+154,Procaine benzylpenicillin,,False,Procaine benzylpenicillin,1234762001,Procaine benzylpenicillin 1.5g/3.4ml suspension for injection pre-filled syringes,10523211000001101,suspensioninjection.intramuscular,Access,Access
+153,Procaine benzylpenicillin,,False,Procaine benzylpenicillin,1234762001,"Procaine benzylpenicillin 600,000unit powder and solvent for suspension for injection vials",10575411000001102,suspensioninjection.intramuscular,Access,Access
+450,Quinupristin + Dalfopristin,,True,Quinupristin + Dalfopristin,775439002,Quinupristin 150mg / Dalfopristin 350mg powder for solution for infusion vials,41881711000001109,solutioninfusion.intravenous,Reserve,Reserve
+155,Spectinomycin,,False,Spectinomycin,777600004,Spectinomycin 2g powder and solvent for suspension for injection vials,10532311000001101,suspensioninjection.intramuscular-deep,Other,Other
+144,Spiramycin,,False,Spiramycin,777602007,Spiramycin 1.5million unit powder for solution for infusion vials,11397011000001102,solutioninfusion.intravenous,Other,Other
+145,Spiramycin,,False,Spiramycin,777602007,Spiramycin 1.5million unit tablets,11381211000001103,tablet.oral,Other,Other
+147,Spiramycin,,False,Spiramycin,777602007,"Spiramycin 375,000units/5ml oral solution",35900311000001105,solution.oral,Other,Other
+146,Spiramycin,,False,Spiramycin,777602007,Spiramycin 3million unit tablets,11381711000001105,tablet.oral,Other,Other
+682,Sulfadiazine,,False,Sulfadiazine,777532008,Sulfadiazine 150mg/5ml oral suspension,13454711000001102,suspension.oral,Other,Other
+168,Sulfadiazine,,False,Sulfadiazine,777532008,Sulfadiazine 1g/4ml solution for injection ampoules,39714411000001105,solutioninfusion.intravenous,Other,Other
+169,Sulfadiazine,,False,Sulfadiazine,777532008,Sulfadiazine 1g/4ml solution for injection ampoules,39714411000001105,solutioninjection.intramuscular-deep,Other,Other
+684,Sulfadiazine,,False,Sulfadiazine,777532008,Sulfadiazine 250mg/5ml oral suspension,13454811000001105,suspension.oral,Other,Other
+385,Sulfadiazine,,False,Sulfadiazine,777532008,Sulfadiazine 500mg tablets,41955311000001106,tablet.oral,Other,Other
+683,Sulfadiazine,,False,Sulfadiazine,777532008,Sulfadiazine 500mg/5ml oral suspension,13454911000001100,suspension.oral,Other,Other
+513,Sulfamethoxypyridazine,,False,Sulfamethoxypyridazine,777643007,Sulfamethoxypyridazine 500mg tablets,5241611000001103,tablet.oral,Other,Other
+693,Sulfapyridine,,False,Sulfapyridine,15465811000001106,Sulfapyridine 250mg capsules,15474111000001108,capsule.oral,Other,Other
+725,Tedizolid,,False,Tedizolid,777686007,Tedizolid 200mg powder for solution for infusion vials,29734011000001109,solutioninfusion.intravenous,Reserve,Reserve
+726,Tedizolid,,False,Tedizolid,777686007,Tedizolid 200mg tablets,41955511000001100,tablet.oral,Reserve,Reserve
+45,Teicoplanin,,False,Teicoplanin,777691008,Teicoplanin 1% eye drops,41011211000001104,solutiondrops.ophthalmic,Watch,Watch
+67,Teicoplanin,,False,Teicoplanin,777691008,Teicoplanin 1g/120ml infusion bags,38344611000001103,solutioninfusion.intravenous,Watch,Watch
+394,Teicoplanin,,False,Teicoplanin,777691008,Teicoplanin 200mg powder and solvent for solution for injection vials,35915111000001103,solution.oral,Watch,Watch
+395,Teicoplanin,,False,Teicoplanin,777691008,Teicoplanin 200mg powder and solvent for solution for injection vials,35915111000001103,solutioninjection.intramuscular,Watch,Watch
+396,Teicoplanin,,False,Teicoplanin,777691008,Teicoplanin 200mg powder and solvent for solution for injection vials,35915111000001103,solutioninjection.intravenous,Watch,Watch
+397,Teicoplanin,,False,Teicoplanin,777691008,Teicoplanin 200mg powder and solvent for solution for injection vials,35915111000001103,solutioninfusion.intravenous,Watch,Watch
+773,Teicoplanin,,False,Teicoplanin,777691008,Teicoplanin 200mg powder for solution for injection vials,41955611000001101,solution.oral,Watch,Watch
+774,Teicoplanin,,False,Teicoplanin,777691008,Teicoplanin 200mg powder for solution for injection vials,41955611000001101,solutioninjection.intramuscular,Watch,Watch
+775,Teicoplanin,,False,Teicoplanin,777691008,Teicoplanin 200mg powder for solution for injection vials,41955611000001101,solutioninjection.intravenous,Watch,Watch
+776,Teicoplanin,,False,Teicoplanin,777691008,Teicoplanin 200mg powder for solution for injection vials,41955611000001101,solutioninfusion.intravenous,Watch,Watch
+140,Teicoplanin,,False,Teicoplanin,777691008,Teicoplanin 200mg/10ml solution for injection pre-filled injection devices,21110711000001106,solutioninjection.intramuscular,Watch,Watch
+142,Teicoplanin,,False,Teicoplanin,777691008,Teicoplanin 200mg/10ml solution for injection pre-filled syringes,20966711000001100,solutioninjection.intramuscular,Watch,Watch
+35,Teicoplanin,,False,Teicoplanin,777691008,Teicoplanin 200mg/50ml infusion bags,44100011000001102,solutioninfusion.intravenous,Watch,Watch
+398,Teicoplanin,,False,Teicoplanin,777691008,Teicoplanin 400mg powder and solvent for solution for injection vials,35915211000001109,solution.oral,Watch,Watch
+399,Teicoplanin,,False,Teicoplanin,777691008,Teicoplanin 400mg powder and solvent for solution for injection vials,35915211000001109,solutioninjection.intramuscular,Watch,Watch
+400,Teicoplanin,,False,Teicoplanin,777691008,Teicoplanin 400mg powder and solvent for solution for injection vials,35915211000001109,solutioninjection.intravenous,Watch,Watch
+401,Teicoplanin,,False,Teicoplanin,777691008,Teicoplanin 400mg powder and solvent for solution for injection vials,35915211000001109,solutioninfusion.intravenous,Watch,Watch
+777,Teicoplanin,,False,Teicoplanin,777691008,Teicoplanin 400mg powder for solution for injection vials,41955711000001105,solution.oral,Watch,Watch
+778,Teicoplanin,,False,Teicoplanin,777691008,Teicoplanin 400mg powder for solution for injection vials,41955711000001105,solutioninjection.intramuscular,Watch,Watch
+779,Teicoplanin,,False,Teicoplanin,777691008,Teicoplanin 400mg powder for solution for injection vials,41955711000001105,solutioninjection.intravenous,Watch,Watch
+780,Teicoplanin,,False,Teicoplanin,777691008,Teicoplanin 400mg powder for solution for injection vials,41955711000001105,solutioninfusion.intravenous,Watch,Watch
+64,Teicoplanin,,False,Teicoplanin,777691008,Teicoplanin 400mg/108ml infusion bags,38344711000001107,solutioninfusion.intravenous,Watch,Watch
+65,Teicoplanin,,False,Teicoplanin,777691008,Teicoplanin 600mg/112ml infusion bags,38344811000001104,solutioninfusion.intravenous,Watch,Watch
+66,Teicoplanin,,False,Teicoplanin,777691008,Teicoplanin 800mg/116ml infusion bags,38344911000001109,solutioninfusion.intravenous,Watch,Watch
+94,Telavancin,,False,Telavancin,777693006,Telavancin 250mg powder for solution for infusion vials,41882311000001101,solutioninfusion.intravenous,Reserve,Reserve
+95,Telavancin,,False,Telavancin,777693006,Telavancin 750mg powder for solution for infusion vials,41882411000001108,solutioninfusion.intravenous,Reserve,Reserve
+533,Temocillin,,False,Temocillin,777700006,Temocillin 1g powder for solution for injection vials,9553611000001102,solutioninjection.intramuscular,Watch,Watch
+534,Temocillin,,False,Temocillin,777700006,Temocillin 1g powder for solution for injection vials,9553611000001102,solutioninjection.intravenous,Watch,Watch
+535,Temocillin,,False,Temocillin,777700006,Temocillin 1g powder for solution for injection vials,9553611000001102,solutioninfusion.intravenous,Watch,Watch
+715,Tetracycline,,False,Tetracycline,777730003,Tetracycline 125mg/5ml oral solution,21407411000001104,solution.oral,Access,Access
+331,Tetracycline,,False,Tetracycline,777730003,Tetracycline 2.2mg/ml topical solution,41748411000001102,solution.cutaneous,Access,Access
+488,Tetracycline,,False,Tetracycline,777730003,Tetracycline 250mg capsules,39704711000001101,capsule.oral,Access,Access
+253,Tetracycline,,False,Tetracycline,777730003,Tetracycline 250mg tablets,39704811000001109,tablet.oral,Access,Access
+542,Tigecycline,,False,Tigecycline,777769009,Tigecycline 50mg powder for solution for infusion vials,10328711000001100,solutioninfusion.intravenous,Reserve,Reserve
+341,Tinidazole,,False,Tinidazole,777775000,Tinidazole 500mg tablets,41956011000001104,tablet.oral,Other,Access
+123,Tobramycin,,False,Tobramycin,777791002,Tobramycin 135mg/5ml oral solution,21718511000001106,solution.oral,Watch,Watch
+743,Tobramycin,,False,Tobramycin,777791002,Tobramycin 170mg/1.7ml nebuliser liquid ampoules,32936811000001108,solutionnebuliser.inhalation,Watch,Watch
+77,Tobramycin,,False,Tobramycin,777791002,Tobramycin 200mg/5ml oral solution,35084911000001108,solution.oral,Watch,Watch
+475,Tobramycin,,False,Tobramycin,777791002,Tobramycin 20mg/2ml solution for injection vials,34194211000001103,solutioninjection.intramuscular,Watch,Watch
+476,Tobramycin,,False,Tobramycin,777791002,Tobramycin 20mg/2ml solution for injection vials,34194211000001103,solutioninjection.intravenous,Watch,Watch
+477,Tobramycin,,False,Tobramycin,777791002,Tobramycin 20mg/2ml solution for injection vials,34194211000001103,solutioninfusion.intravenous,Watch,Watch
+720,Tobramycin,,False,Tobramycin,777791002,Tobramycin 20mg/5ml oral solution,23676411000001103,solution.oral,Watch,Watch
+472,Tobramycin,,False,Tobramycin,777791002,Tobramycin 240mg/6ml solution for injection vials,4516011000001106,solutioninjection.intramuscular,Watch,Watch
+473,Tobramycin,,False,Tobramycin,777791002,Tobramycin 240mg/6ml solution for injection vials,4516011000001106,solutioninjection.intravenous,Watch,Watch
+474,Tobramycin,,False,Tobramycin,777791002,Tobramycin 240mg/6ml solution for injection vials,4516011000001106,solutioninfusion.intravenous,Watch,Watch
+712,Tobramycin,,False,Tobramycin,777791002,Tobramycin 28mg inhalation powder capsules with device,19544811000001101,powderinhalation.inhalation,Watch,Watch
+690,Tobramycin,,False,Tobramycin,777791002,Tobramycin 300mg/4ml nebuliser liquid ampoules,14801411000001105,solutionnebuliser.inhalation,Watch,Watch
+386,Tobramycin,,False,Tobramycin,777791002,Tobramycin 300mg/5ml nebuliser liquid ampoules,4145111000001102,solutionnebuliser.inhalation,Watch,Watch
+688,Tobramycin,,False,Tobramycin,777791002,Tobramycin 3mg/ml eye drops,14253311000001100,solutiondrops.ophthalmic,Watch,Watch
+122,Tobramycin,,False,Tobramycin,777791002,Tobramycin 400mg/5ml oral solution,21717911000001100,solution.oral,Watch,Watch
+469,Tobramycin,,False,Tobramycin,777791002,Tobramycin 40mg/1ml solution for injection ampoules,35919711000001100,solutioninjection.intramuscular,Watch,Watch
+470,Tobramycin,,False,Tobramycin,777791002,Tobramycin 40mg/1ml solution for injection ampoules,35919711000001100,solutioninjection.intravenous,Watch,Watch
+471,Tobramycin,,False,Tobramycin,777791002,Tobramycin 40mg/1ml solution for injection ampoules,35919711000001100,solutioninfusion.intravenous,Watch,Watch
+502,Tobramycin,,False,Tobramycin,777791002,Tobramycin 40mg/1ml solution for injection vials,4957911000001108,solutioninjection.intramuscular,Watch,Watch
+503,Tobramycin,,False,Tobramycin,777791002,Tobramycin 40mg/1ml solution for injection vials,4957911000001108,solutioninjection.intravenous,Watch,Watch
+504,Tobramycin,,False,Tobramycin,777791002,Tobramycin 40mg/1ml solution for injection vials,4957911000001108,solutioninfusion.intravenous,Watch,Watch
+735,Tobramycin,,False,Tobramycin,777791002,Tobramycin 40mg/5ml oral solution,32656811000001108,solution.oral,Watch,Watch
+391,Tobramycin,,False,Tobramycin,777791002,Tobramycin 80mg/2ml solution for infusion ampoules,35919811000001108,solutioninjection.intramuscular,Watch,Watch
+392,Tobramycin,,False,Tobramycin,777791002,Tobramycin 80mg/2ml solution for infusion ampoules,35919811000001108,solutioninjection.intravenous,Watch,Watch
+393,Tobramycin,,False,Tobramycin,777791002,Tobramycin 80mg/2ml solution for infusion ampoules,35919811000001108,solutioninfusion.intravenous,Watch,Watch
+387,Tobramycin,,False,Tobramycin,777791002,Tobramycin 80mg/2ml solution for injection vials,4145011000001103,solutioninjection.intramuscular,Watch,Watch
+388,Tobramycin,,False,Tobramycin,777791002,Tobramycin 80mg/2ml solution for injection vials,4145011000001103,solutioninjection.intravenous,Watch,Watch
+389,Tobramycin,,False,Tobramycin,777791002,Tobramycin 80mg/2ml solution for injection vials,4145011000001103,solutioninfusion.intravenous,Watch,Watch
+151,Tobramycin,,False,Tobramycin,777791002,Tobramycin sulfate powder,10824311000001107,,Watch,Watch
+176,Trimethoprim,,False,Trimethoprim,777858001,Trimethoprim 100mg tablets,41956111000001103,tablet.oral,Access,Access
+260,Trimethoprim,,False,Trimethoprim,777858001,Trimethoprim 100mg/5ml solution for injection ampoules,36144011000001106,solutioninjection.intravenous,Access,Access
+261,Trimethoprim,,False,Trimethoprim,777858001,Trimethoprim 100mg/5ml solution for injection ampoules,36144011000001106,solutioninfusion.intravenous,Access,Access
+177,Trimethoprim,,False,Trimethoprim,777858001,Trimethoprim 200mg tablets,41956211000001109,tablet.oral,Access,Access
+678,Trimethoprim,,False,Trimethoprim,777858001,Trimethoprim 200mg/5ml oral solution,13374511000001101,solution.oral,Access,Access
+674,Trimethoprim,,False,Trimethoprim,777858001,Trimethoprim 200mg/5ml oral suspension,13374611000001102,suspension.oral,Access,Access
+679,Trimethoprim,,False,Trimethoprim,777858001,Trimethoprim 20mg/5ml oral solution,13374711000001106,solution.oral,Access,Access
+675,Trimethoprim,,False,Trimethoprim,777858001,Trimethoprim 20mg/5ml oral suspension,13374811000001103,suspension.oral,Access,Access
+680,Trimethoprim,,False,Trimethoprim,777858001,Trimethoprim 240mg/5ml oral solution,13374911000001108,solution.oral,Access,Access
+676,Trimethoprim,,False,Trimethoprim,777858001,Trimethoprim 240mg/5ml oral suspension,13375011000001108,suspension.oral,Access,Access
+201,Trimethoprim,,False,Trimethoprim,777858001,Trimethoprim 50mg/5ml oral suspension sugar free,39022311000001100,suspension.oral,Access,Access
+681,Trimethoprim,,False,Trimethoprim,777858001,Trimethoprim 7mg/5ml oral solution,13375111000001109,solution.oral,Access,Access
+677,Trimethoprim,,False,Trimethoprim,777858001,Trimethoprim 7mg/5ml oral suspension,13375211000001103,suspension.oral,Access,Access
+83,Vancomycin,,False,Vancomycin,777914002,Vancomycin 1.25g/250ml infusion bags,35050611000001101,solutioninfusion.intravenous,Watch,Watch
+717,Vancomycin,,False,Vancomycin,777914002,Vancomycin 1.4% eye drops,22103111000001101,solutiondrops.ophthalmic,Watch,Watch
+141,Vancomycin,,False,Vancomycin,777914002,Vancomycin 1.4% eye drops preservative free,20983311000001106,solutiondrops.ophthalmic,Watch,Watch
+79,Vancomycin,,False,Vancomycin,777914002,Vancomycin 1.5g/500ml infusion bags,35055311000001104,solutioninfusion.intravenous,Watch,Watch
+68,Vancomycin,,False,Vancomycin,777914002,Vancomycin 1.5g/530ml infusion bags,38345011000001109,solutioninfusion.intravenous,Watch,Watch
+138,Vancomycin,,False,Vancomycin,777914002,Vancomycin 10mg/1ml solution for injection pre-filled syringes,21273811000001100,solutioninjection.intrathecal,Watch,Watch
+81,Vancomycin,,False,Vancomycin,777914002,Vancomycin 10mg/2ml solution for injection pre-filled syringes,35048511000001100,solutioninjection.intravenous,Watch,Watch
+390,Vancomycin,,False,Vancomycin,777914002,Vancomycin 125mg capsules,41956311000001101,capsule.oral,Watch,Watch
+691,Vancomycin,,False,Vancomycin,777914002,Vancomycin 125mg/5ml oral solution,15453011000001107,solution.oral,Watch,Watch
+692,Vancomycin,,False,Vancomycin,777914002,Vancomycin 125mg/5ml oral suspension,15453111000001108,suspension.oral,Watch,Watch
+452,Vancomycin,,False,Vancomycin,777914002,Vancomycin 1g powder for solution for infusion vials,41956411000001108,solution.oral,Watch,Watch
+453,Vancomycin,,False,Vancomycin,777914002,Vancomycin 1g powder for solution for infusion vials,41956411000001108,solutioninjection.intravenous,Watch,Watch
+454,Vancomycin,,False,Vancomycin,777914002,Vancomycin 1g powder for solution for infusion vials,41956411000001108,solutioninfusion.intravenous,Watch,Watch
+455,Vancomycin,,False,Vancomycin,777914002,Vancomycin 1g powder for solution for infusion vials,41956411000001108,solution.gastroenteral,Watch,Watch
+78,Vancomycin,,False,Vancomycin,777914002,Vancomycin 1g/250ml infusion bags,35054211000001106,solutioninfusion.intravenous,Watch,Watch
+131,Vancomycin,,False,Vancomycin,777914002,Vancomycin 1mg/0.1ml solution for injection pre-filled syringes,21277311000001102,solutioninjection.intravitreal,Watch,Watch
+92,Vancomycin,,False,Vancomycin,777914002,Vancomycin 2.5mg/0.5ml solution for injection pre-filled syringes,28047511000001105,solutioninjection.intravitreal,Watch,Watch
+110,Vancomycin,,False,Vancomycin,777914002,Vancomycin 20mg pastilles,22399111000001107,pastille.oromucosal,Watch,Watch
+137,Vancomycin,,False,Vancomycin,777914002,Vancomycin 20mg/4ml solution for injection pre-filled syringes,21273411000001102,solutioninjection.intrathecal,Watch,Watch
+403,Vancomycin,,False,Vancomycin,777914002,Vancomycin 250mg capsules,41956511000001107,capsule.oral,Watch,Watch
+527,Vancomycin,,False,Vancomycin,777914002,Vancomycin 250mg/5ml oral solution,8818611000001100,solution.oral,Watch,Watch
+528,Vancomycin,,False,Vancomycin,777914002,Vancomycin 250mg/5ml oral suspension,8818711000001109,suspension.oral,Watch,Watch
+80,Vancomycin,,False,Vancomycin,777914002,Vancomycin 2g/500ml infusion bags,35055911000001103,solutioninfusion.intravenous,Watch,Watch
+69,Vancomycin,,False,Vancomycin,777914002,Vancomycin 2g/540ml infusion bags,38345111000001105,solutioninfusion.intravenous,Watch,Watch
+50,Vancomycin,,False,Vancomycin,777914002,Vancomycin 2mg/0.1ml intravitreal injection kit,40529511000001103,solutioninjection.intravitreal,Watch,Watch
+136,Vancomycin,,False,Vancomycin,777914002,Vancomycin 30mg/3ml solution for injection pre-filled syringes,21272811000001108,solutioninjection.intrathecal,Watch,Watch
+132,Vancomycin,,False,Vancomycin,777914002,Vancomycin 4mg/2ml solution for injection pre-filled syringes,21277911000001101,solutioninjection.intravenous,Watch,Watch
+714,Vancomycin,,False,Vancomycin,777914002,Vancomycin 5% eye drops,21407511000001100,solution.ophthalmic,Watch,Watch
+135,Vancomycin,,False,Vancomycin,777914002,Vancomycin 5% eye drops preservative free,21272211000001107,solution.ophthalmic,Watch,Watch
+404,Vancomycin,,False,Vancomycin,777914002,Vancomycin 500mg powder for solution for infusion vials,41956611000001106,solution.oral,Watch,Watch
+405,Vancomycin,,False,Vancomycin,777914002,Vancomycin 500mg powder for solution for infusion vials,41956611000001106,solutioninfusion.intravenous,Watch,Watch
+406,Vancomycin,,False,Vancomycin,777914002,Vancomycin 500mg powder for solution for infusion vials,41956611000001106,solution.gastroenteral,Watch,Watch
+130,Vancomycin,,False,Vancomycin,777914002,Vancomycin 500mg/100ml infusion bags,21276711000001101,solutioninfusion.intravenous,Watch,Watch
+49,Vancomycin,,False,Vancomycin,777914002,Vancomycin 500micrograms/0.1ml solution for injection pre-filled syringes,40548411000001108,solutioninjection.intravitreal,Watch,Watch
+82,Vancomycin,,False,Vancomycin,777914002,Vancomycin 50mg/10ml solution for injection pre-filled syringes,35049111000001102,solutioninjection.intravenous,Watch,Watch
+664,Vancomycin,,False,Vancomycin,777914002,Vancomycin 50mg/5ml oral solution,12940811000001109,solution.oral,Watch,Watch
+133,Vancomycin,,False,Vancomycin,777914002,Vancomycin 5mg/0.5ml solution for injection pre-filled syringes,21278311000001101,solutioninjection.intravitreal,Watch,Watch
+134,Vancomycin,,False,Vancomycin,777914002,Vancomycin 5mg/0.5ml solution for injection pre-filled syringes,21278311000001101,solutioninjection.intracameral,Watch,Watch
+685,Vancomycin,,False,Vancomycin,777914002,Vancomycin 62.5mg/5ml oral solution,13455811000001106,solution.oral,Watch,Watch
+84,Vancomycin,,False,Vancomycin,777914002,Vancomycin 750mg/250ml infusion bags,35051211000001109,solutioninfusion.intravenous,Watch,Watch
