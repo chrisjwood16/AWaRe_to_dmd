@@ -87,6 +87,8 @@ descartes==1.1.0
     # via ebmdatalab
 ebmdatalab==0.0.31
     # via -r requirements.in
+et-xmlfile==2.0.0
+    # via openpyxl
 executing==2.0.1
     # via stack-data
 fastjsonschema==2.19.1
@@ -304,6 +306,7 @@ numpy==1.26.4
     #   statsmodels
 oauthlib==3.2.2
     # via requests-oauthlib
+openpyxl==3.1.5
 overrides==7.7.0
     # via jupyter-server
 packaging==24.0
