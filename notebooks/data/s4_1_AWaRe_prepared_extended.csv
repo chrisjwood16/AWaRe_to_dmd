@@ -1,0 +1,102 @@
+Antibiotic,route,atc_route,aware_2019,aware_2024
+Amikacin,,,Watch,Watch
+Amoxicillin,,,Access,Access
+Ampicillin,,,Access,Access
+Ampicillin + Flucloxacillin,,,Other,Other
+Azithromycin,,,Watch,Watch
+Aztreonam,,,Reserve,Reserve
+Benzathine benzylpenicillin,,,Access,Access
+Benzylpenicillin,,,Access,Access
+Cefaclor,,,Watch,Watch
+Cefadroxil,,,Watch,Access
+Cefalexin,,,Watch,Access
+Cefalotin,,,Watch,Access
+Cefamandole,,,Watch,Watch
+Cefazolin,,,Watch,Access
+Cefepime,,,Watch,Watch
+Cefepime + Enmetazobactam,,,NR,NR
+Cefiderocol,,,Reserve,Reserve
+Cefixime,,,Watch,Watch
+Cefotaxime,,,Watch,Watch
+Cefoxitin,,,Watch,Watch
+Cefpirome,,,Watch,Reserve
+Cefpodoxime,,,Watch,Watch
+Cefprozil,,,Watch,Watch
+Cefradine,,,Watch,Access
+Ceftaroline fosamil,,,Reserve,Reserve
+Ceftazidime,,,Watch,Watch
+Ceftazidime + Avibactam,,,Reserve,Reserve
+Ceftobiprole,,,Reserve,Reserve
+Ceftolozane + Tazobactam,,,Reserve,Reserve
+Ceftriaxone,,,Watch,Watch
+Cefuroxime,,,Watch,Watch
+Chloramphenicol,,,Watch,Watch
+Cilastatin + Imipenem + Relebactam,,,Reserve,Reserve
+Ciprofloxacin,,,Watch,Watch
+Clarithromycin,,,Watch,Watch
+Clindamycin,,,Watch,Watch
+Co-amoxiclav,,,Watch,Watch
+Co-fluampicil,,,Other,Other
+Co-trimoxazole,,,Access,Access
+Colistin,oral,O,Reserve,Reserve
+Colistin,intravenous,P,Reserve,Reserve
+Dalbavancin,,,Reserve,Reserve
+Daptomycin,,,Reserve,Reserve
+Delafloxacin,,,Watch,Watch
+Demeclocycline,,,Watch,Other
+Doripenem,,,Reserve,Reserve
+Doxycycline,,,Access,Access
+Eravacycline,,,Reserve,Reserve
+Ertapenem,,,Reserve,Reserve
+Erythromycin,,,Watch,Watch
+Fidaxomicin,,,Watch,Watch
+Flucloxacillin,,,Access,Access
+Fosfomycin,oral,O,Access,Access
+Fosfomycin,intravenous,P,Reserve,Reserve
+Fusidic acid,,,Access,Watch
+Gentamicin,,,Access,Access
+Imipenem + Cilastatin,,,Reserve,Reserve
+Levofloxacin,,,Watch,Watch
+Linezolid,,,Reserve,Reserve
+Lymecycline,,,Watch,Watch
+Meropenem,,,Reserve,Reserve
+Meropenem + Vaborbactam,,,Reserve,Reserve
+Methenamine,,,Other,Other
+Metronidazole,,,Access,Access
+Minocycline,oral,O,Watch,Watch
+Moxifloxacin,,,Watch,Watch
+Nalidixic Acid,,,Other,Other
+Nalidixic acid,,,Other,Other
+Neomycin,,,Watch,Watch
+Netilmicin,,,Watch,Other
+Nitrofurantoin,,,Access,Access
+Norfloxacin,,,Watch,Watch
+Ofloxacin,,,Watch,Watch
+Oritavancin,,,Reserve,Reserve
+Oxytetracycline,,,Watch,Watch
+Phenoxymethylpenicillin,,,Access,Access
+Piperacillin,,,Watch,Watch
+Piperacillin + Tazobactam,,,Watch,Watch
+Pivmecillinam,,,Access,Access
+Pristinamycin,,,Watch,Other
+Procaine benzylpenicillin,,,Access,Access
+Quinupristin + Dalfopristin,,,Reserve,Reserve
+Roxithromycin,,,Watch,Other
+Sodium fusidate,,,Watch,Watch
+Spectinomycin,,,Other,Other
+Spiramycin,,,Other,Other
+Streptomycin,intravenous,P,Other,Other
+Sulfadiazine,,,Other,Other
+Sulfamethoxypyridazine,,,Other,Other
+Sulfapyridine,,,Other,Other
+Tedizolid,,,Reserve,Reserve
+Teicoplanin,,,Watch,Watch
+Telavancin,,,Reserve,Reserve
+Temocillin,,,Watch,Watch
+Tetracycline,,,Access,Access
+Ticarcillin + Clavulanic acid,,,Other,Other
+Tigecycline,,,Reserve,Reserve
+Tinidazole,,,Other,Access
+Tobramycin,,,Watch,Watch
+Trimethoprim,,,Access,Access
+Vancomycin,,,Watch,Watch
